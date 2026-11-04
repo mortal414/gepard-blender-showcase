@@ -1,0 +1,50 @@
+{
+  "source_filename": "Gepard-Detail10-GreyMechanisms01.blend",
+  "source_sha256": "a530657f4e191c69df6cc09da630671cd2d03c879c009c4715573b902bf8d979",
+  "source_bytes": 491250653,
+  "public_filename": "Gepard-Detail10-Public.blend",
+  "public_sha256": "3e84eee2b0afe4e39f86f42dca84d3e4701cff082998870e25cb85f63ec26f60",
+  "public_bytes": 490467659,
+  "removed_text_datablocks": 62,
+  "removed_custom_properties": 9210,
+  "packed_image_paths_rebased": 246,
+  "blender": "4.5.15 LTS",
+  "fingerprints_before": {
+    "meshes": "82d3a381cbd7dd344b020e8a7b5c4217fb627c0a9f6212733a2a4c82264fc001",
+    "objects": "39ab277d8b3932797c20be7e46ca2310a46e361993fc8534f567a1ff003fae84",
+    "images": "4d0045e358d65fc1af901cd32f6a6eeba5e81d9c80727aa1858b09d69ee1ee8c",
+    "materials": "e51e60709478e8a190ed0ceeb1334e745aef4b9f0415ecbc6a12bb18ad7fc8a2",
+    "scenes": "e1cc351e6161bc7fa0c28fc12a1f5fcdc0a3de8e14c82440e9d7f910b3d8aa6e"
+  },
+  "fingerprints_after_reopen": {
+    "meshes": "82d3a381cbd7dd344b020e8a7b5c4217fb627c0a9f6212733a2a4c82264fc001",
+    "objects": "39ab277d8b3932797c20be7e46ca2310a46e361993fc8534f567a1ff003fae84",
+    "images": "4d0045e358d65fc1af901cd32f6a6eeba5e81d9c80727aa1858b09d69ee1ee8c",
+    "materials": "e51e60709478e8a190ed0ceeb1334e745aef4b9f0415ecbc6a12bb18ad7fc8a2",
+    "scenes": "e1cc351e6161bc7fa0c28fc12a1f5fcdc0a3de8e14c82440e9d7f910b3d8aa6e"
+  },
+  "evaluated_scenes_before": {
+    "REFINEMENT_Camo": {
+      "mesh_count": 636,
+      "sha256": "f909049ea0a27741dd2c225d15d02c90d5d6e4602737f4a2825c38267a348d16"
+    },
+    "REFINEMENT_Charcoal": {
+      "mesh_count": 636,
+      "sha256": "4a543a46bd1e203244063caf81bea32b48576d61aae2593fc10ea0668c8d225b"
+    }
+  },
+  "evaluated_scenes_after_reopen": {
+    "REFINEMENT_Camo": {
+      "mesh_count": 636,
+      "sha256": "f909049ea0a27741dd2c225d15d02c90d5d6e4602737f4a2825c38267a348d16"
+    },
+    "REFINEMENT_Charcoal": {
+      "mesh_count": 636,
+      "sha256": "4a543a46bd1e203244063caf81bea32b48576d61aae2593fc10ea0668c8d225b"
+    }
+  },
+  "numeric_custom_properties_preserved": true,
+  "animation_drivers": 0,
+  "validation": "PASS",
+  "original_unchanged": true
+}
