@@ -1,0 +1,59 @@
+{
+  "images": [
+    {
+      "filename": "gepard-camo-front-three-quarter.png",
+      "sha256": "979dabc2d3fee756d31cc4c69ed45442467f0cf7af26b356d919747d7a36ae33",
+      "bytes": 4724362,
+      "width": 2560,
+      "height": 1760,
+      "scene": "REFINEMENT_Camo",
+      "shot": "gepard-camo-front-three-quarter"
+    },
+    {
+      "filename": "gepard-camo-rear-three-quarter.png",
+      "sha256": "d3725ffe912bfb7967794bcb476e447db5d524e80404585c269198ec2181401a",
+      "bytes": 4671524,
+      "width": 2560,
+      "height": 1760,
+      "scene": "REFINEMENT_Camo",
+      "shot": "gepard-camo-rear-three-quarter"
+    },
+    {
+      "filename": "gepard-camo-turret-detail.png",
+      "sha256": "69776f5c5c14490b92f3bf1d7c3dee4bb954c0442f7abc7f0677681471d5dadd",
+      "bytes": 5318442,
+      "width": 2560,
+      "height": 1760,
+      "scene": "REFINEMENT_Camo",
+      "shot": "gepard-camo-turret-detail"
+    },
+    {
+      "filename": "gepard-charcoal-front-three-quarter.png",
+      "sha256": "4e105f8cc576e98fb1ad1c7b409cd9759d2232de7f4b7ca27322f6ca5260ff09",
+      "bytes": 4608932,
+      "width": 2560,
+      "height": 1760,
+      "scene": "REFINEMENT_Charcoal",
+      "shot": "gepard-charcoal-front-three-quarter"
+    },
+    {
+      "filename": "gepard-charcoal-rear-three-quarter.png",
+      "sha256": "1c4f699b4da3b2f86a95f760430c153452ff010fc27359a55e4de5d824a7f297",
+      "bytes": 4574759,
+      "width": 2560,
+      "height": 1760,
+      "scene": "REFINEMENT_Charcoal",
+      "shot": "gepard-charcoal-rear-three-quarter"
+    },
+    {
+      "filename": "gepard-charcoal-turret-detail.png",
+      "sha256": "229f19df4bafd7f7ccd45826410e5a2d8968db7923dabbb4fa8495a9f0df6c3e",
+      "bytes": 5065328,
+      "width": 2560,
+      "height": 1760,
+      "scene": "REFINEMENT_Charcoal",
+      "shot": "gepard-charcoal-turret-detail"
+    }
+  ],
+  "source_sha256": "a530657f4e191c69df6cc09da630671cd2d03c879c009c4715573b902bf8d979"
+}

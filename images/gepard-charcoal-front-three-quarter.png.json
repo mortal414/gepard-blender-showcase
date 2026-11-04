@@ -1,0 +1,39 @@
+{
+  "file": "gepard-charcoal-front-three-quarter.png",
+  "source_file": "Gepard-Detail10-GreyMechanisms01.blend",
+  "source_sha256": "a530657f4e191c69df6cc09da630671cd2d03c879c009c4715573b902bf8d979",
+  "scene": "REFINEMENT_Charcoal",
+  "capture": "Actual Blender Cycles render, not an in-game screenshot",
+  "model_changes": false,
+  "presentation_changes": [
+    "camera framing",
+    "three studio lights at 1.5x original energy",
+    "studio world",
+    "matte presentation ground",
+    "AgX Medium High Contrast color management"
+  ],
+  "camera": {
+    "location": [
+      -11,
+      14,
+      6.5
+    ],
+    "target": [
+      0,
+      0.1,
+      1.4
+    ],
+    "lens_mm": 52
+  },
+  "ground_z": 0.02079031901061535,
+  "resolution": [
+    2560,
+    1760
+  ],
+  "samples_max": 256,
+  "adaptive_threshold": 0.007000000216066837,
+  "denoised": false,
+  "blender_version": "4.3.2",
+  "sha256": "4e105f8cc576e98fb1ad1c7b409cd9759d2232de7f4b7ca27322f6ca5260ff09",
+  "metadata_cleanup": "PNG text/EXIF metadata removed. Decoded pixel bytes verified identical."
+}
