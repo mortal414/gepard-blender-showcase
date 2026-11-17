@@ -1,33 +1,54 @@
-# Gepard - Blender showcase
+# Gepard · Blender showcase
 
-An editable, work-in-progress Gepard model with **camouflage** and **charcoal** finishes, detailed running gear, crew interiors and neutral grey mechanisms.
+A visual workbench for an ongoing **Gepard 1A2** model, from whole-vehicle silhouettes to the small fittings that give it character. Two finishes, camouflage and charcoal, are shown from matching cameras.
 
-This showcase is based on the approved **Detail10 GreyMechanisms01** Blender source. It is a static authoring model. The Blender scenes do not establish functioning in-game mechanisms, real-world dimensional accuracy or a qualified Arma release.
+**Current gallery: R33, accepted 16 November 2026.** This is Blender authoring progress, ahead of game integration. It is not the model currently available in the [published Arma Reforger mod](https://github.com/mortal414/gepard).
 
-## Blender gallery
+[Gallery](#gallery) · [What changed](#what-changed) · [Project roles](#project-roles) · [Status and limits](#status-and-limits) · [Earlier work](#earlier-work)
 
-Six full-resolution **2560 x 1760** Blender Cycles renders of the approved Detail10 source. Matching cameras show both finishes. Click any image for the original PNG.
+## Gallery
+
+![Gepard R33 camouflage finish, front three-quarter Blender render](images/r33/camo-front.jpg)
+
+Fresh Blender Cycles renders, made on 17 November 2026 from the accepted model. The source geometry, materials and saved pose were left unchanged. Cameras, lighting and color management are presentation-only. These are model renders, not photographs or in-game screenshots.
 
 | Camouflage | Charcoal |
 | --- | --- |
-| [![Camouflage Gepard: front three-quarter Blender view](images/gepard-camo-front-three-quarter.png)](images/gepard-camo-front-three-quarter.png?raw=true) **Front three-quarter** | [![Charcoal Gepard: front three-quarter Blender view](images/gepard-charcoal-front-three-quarter.png)](images/gepard-charcoal-front-three-quarter.png?raw=true) **Front three-quarter** |
-| [![Camouflage Gepard: rear three-quarter Blender view](images/gepard-camo-rear-three-quarter.png)](images/gepard-camo-rear-three-quarter.png?raw=true) **Rear three-quarter** | [![Charcoal Gepard: rear three-quarter Blender view](images/gepard-charcoal-rear-three-quarter.png)](images/gepard-charcoal-rear-three-quarter.png?raw=true) **Rear three-quarter** |
-| [![Camouflage Gepard: turret and grey mechanism detail in Blender](images/gepard-camo-turret-detail.png)](images/gepard-camo-turret-detail.png?raw=true) **Turret and grey mechanism detail** | [![Charcoal Gepard: turret and grey mechanism detail in Blender](images/gepard-charcoal-turret-detail.png)](images/gepard-charcoal-turret-detail.png?raw=true) **Turret and grey mechanism detail** |
+| [![Camouflage front three-quarter](images/r33/camo-front.jpg)](images/r33/camo-front.jpg) | [![Charcoal front three-quarter](images/r33/charcoal-front.jpg)](images/r33/charcoal-front.jpg) |
+| **Front three-quarter** | **Front three-quarter** |
+| [![Camouflage rear three-quarter](images/r33/camo-rear.jpg)](images/r33/camo-rear.jpg) | [![Charcoal rear three-quarter](images/r33/charcoal-rear.jpg)](images/r33/charcoal-rear.jpg) |
+| **Rear three-quarter** | **Rear three-quarter** |
+| [![Camouflage turret and radar detail](images/r33/camo-detail.jpg)](images/r33/camo-detail.jpg) | [![Charcoal turret and radar detail](images/r33/charcoal-detail.jpg)](images/r33/charcoal-detail.jpg) |
+| **Turret and tracking radar** | **Turret and tracking radar** |
 
-These are Blender studio presentation images, not in-game screenshots or photographs of a real vehicle. Cameras, studio lighting, color management and a matte floor were set for the gallery; model geometry, materials, textures and assembly were unchanged. No generative imagery or post-render retouching was used. [Render provenance and attribution](images/RENDER-PROVENANCE.md) · [Image checksums](images/manifest.json).
+[Rendering notes](images/r33/RENDERING.md)
 
-## Model
+## What changed
 
-Download the model and its notices from the [Detail10 showcase release](https://github.com/mortal414/gepard-blender-showcase/releases/tag/detail10-showcase-2026-11-04). Extract `Gepard-Detail10-Public.blend` from the ZIP. This is a metadata-cleaned derivative of `Gepard-Detail10-GreyMechanisms01.blend`. The original is preserved privately, unchanged.
+The current authoring milestone brings a substantial rebuild of the visible vehicle:
 
-Open in **Blender 4.5 LTS**. Choose `REFINEMENT_Camo` or `REFINEMENT_Charcoal` from the scene selector. All 246 image records retain their packed data. The [validation record](sanitization-validation.json) identifies the download's SHA-256 and verifies geometry, normals, UVs, scene membership, material assignments, shader inputs and packed image bytes after saving and reopening both scenes. Numerical custom settings are preserved.
+- Revised bow shoulders, front guards and recovery fittings.
+- Reworked turret cheek transitions, smoke banks and tracking-radar assembly.
+- Rebuilt gun mounts and coordinated model articulation.
+- Revised idler placement, track loops, engine deck and stern details.
+- Further crew-interior, turret-bearing and rear-equipment work.
 
-The public derivative removes embedded development text and custom metadata, replaces historical image paths with portable paths, and removes render-output paths. Its file hash therefore differs from the original. The approved original is 491,250,653 bytes, SHA-256 `a530657f4e191c69df6cc09da630671cd2d03c879c009c4715573b902bf8d979`.
+The gallery concentrates on the exterior. It does not document every interior change or certify every articulated pose.
+
+## Project roles
+
+Marco Betti leads the creative direction, reference review, visual feedback and acceptance decisions. AI-assisted tools support the Blender implementation and iteration. Playtesting and release qualification belong to the separate Arma Reforger project.
+
+## Status and limits
+
+**Work in progress.** Remaining uncertainties include the concealed idler carrier, exact lower turret-cheek shape, bearing shielding and real mechanical travel limits. Reference-based visual review is not dimensional certification. Model controls and sampled clearances do not establish the real vehicle's operational limits or game readiness.
+
+The [Arma Reforger repository](https://github.com/mortal414/gepard) documents the separately released playable mod. This gallery update does not change that release or publish a new Workshop build.
+
+## Earlier work
+
+The [4 November Detail10 archive](DETAIL10-ARCHIVE.md) preserves the previous six-image gallery and its historical source download. That download is an **older model**, not the R33 model shown above. The current update publishes presentation media and documentation only; it does not distribute a new Blender source file.
 
 ## Rights and attribution
 
-See [RIGHTS.md](RIGHTS.md). A blanket reuse license has **not** been established for the complete model. Public availability alone does not grant permission to reuse third-party material.
-
-## Arma project
-
-The separate [Gepard Arma Reforger project](https://github.com/mortal414/gepard) documents the currently published game release. This model showcase does not update the Workshop mod. Game integration remains subject to testing and acceptance.
+See [RIGHTS.md](RIGHTS.md). Existing component notices remain in force. No blanket reuse license has been established for the complete model or its textures. Public viewing does not grant reuse rights to third-party material. No private reference photographs, comparison boards or development notes are included in this gallery.
