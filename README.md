@@ -21,7 +21,11 @@ Fresh Blender Cycles renders, made on 17 November 2026 from the accepted model. 
 | [![Camouflage turret and radar detail](images/r33/camo-detail.jpg)](images/r33/camo-detail.jpg) | [![Charcoal turret and radar detail](images/r33/charcoal-detail.jpg)](images/r33/charcoal-detail.jpg) |
 | **Turret and tracking radar** | **Turret and tracking radar** |
 
-[Rendering notes](images/r33/RENDERING.md)
+### Around the model
+
+![Four-second camera orbit around the R33 camouflage model](images/r33/camo-turntable.gif)
+
+A genuine 360° Blender camera orbit of the camouflage model in its saved pose. The model stays still; this is a presentation turntable, not a demonstration of mechanical operation. [Watch or download the MP4](images/r33/camo-turntable.mp4) · [Rendering notes](images/r33/RENDERING.md)
 
 ## What changed
 
