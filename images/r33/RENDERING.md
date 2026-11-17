@@ -13,3 +13,7 @@ Rendered on 17 November 2026 in Blender 4.5.15 LTS using Cycles on the assistant
 - Published JPEGs are high-quality encodings of the rendered PNGs. No generative imagery, composite scenery, shape repair or manual image retouching is used.
 
 These views show an accepted work-in-progress authoring baseline, not dimensional certification or the currently published game model. Some components remain unfinished. See the [project overview](../../README.md#status-and-limits) and [rights notices](../../RIGHTS.md).
+
+## Turntable
+
+The camouflage camera orbit contains 48 independently rendered Cycles frames at 800 × 550 pixels and 24 samples, played at 12 frames per second for four seconds. The camera makes a full turn around the stationary model; geometry and articulation remain in the saved pose. GIF and H.264 MP4 are encodings of the same frames, with no interpolated or generated intermediate views. Representative frames around the full orbit were visually reviewed.
