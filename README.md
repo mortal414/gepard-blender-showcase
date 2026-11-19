@@ -20,6 +20,16 @@ The equipped configuration adds the removable roof and rear stowage boxes and th
 
 **[Equipped model and private Blender download](models/R41-Equipped.md)** · [Full Equipped gallery](galleries/R41.md#equipped)
 
+## Turntables
+
+### R38 · earlier exterior checkpoint
+
+![R38 Camo exterior · 360-degree turntable](images/r38/camo-turntable.gif)
+
+[Watch the R38 MP4](images/r38/camo-turntable.mp4) · [R38 gallery](R38-ARCHIVE.md)
+
+[R33 turntable · MP4](images/r33/camo-turntable.mp4) · [R33 gallery](R33-ARCHIVE.md)
+
 ## Explore the model
 
 - [Full R41 gallery](galleries/R41.md) — all 15 model renders, including the driver’s visor, deck, turret landings, side guards and steps.
