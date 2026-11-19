@@ -12,7 +12,7 @@ The clean configuration has the removable stowage boxes and roof beacon off.
 
 ![R41 Base Camo · 360-degree turntable](images/r41/base-camo-turntable.gif)
 
-**Watch MP4:** [Camo](images/r41/base-camo-turntable.mp4) · [Charcoal](images/r41/base-charcoal-turntable.mp4) · [Both animated finishes](galleries/R41.md#base-turntables)
+**MP4 downloads:** [Camo](images/r41/base-camo-turntable.mp4?raw=true) · [Charcoal](images/r41/base-charcoal-turntable.mp4?raw=true) · [Both animated finishes](galleries/R41.md#base-turntables)
 
 ## R41 Equipped
 
@@ -26,7 +26,7 @@ The equipped configuration adds the removable roof and rear stowage boxes and th
 
 ![R41 Equipped Camo · 360-degree turntable](images/r41/equipped-camo-turntable.gif)
 
-**Watch MP4:** [Camo](images/r41/equipped-camo-turntable.mp4) · [Charcoal](images/r41/equipped-charcoal-turntable.mp4) · [Both animated finishes](galleries/R41.md#equipped-turntables)
+**MP4 downloads:** [Camo](images/r41/equipped-camo-turntable.mp4?raw=true) · [Charcoal](images/r41/equipped-charcoal-turntable.mp4?raw=true) · [Both animated finishes](galleries/R41.md#equipped-turntables)
 
 ## R41 detail gallery
 
