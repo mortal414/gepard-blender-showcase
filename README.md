@@ -1,53 +1,53 @@
 # Gepard 1A2
 
-## R39 Base · default
+R41 seats the driver’s visor handle against its mounts, restores the broad folded plate on the right rear deck, clears a triangular overlap on the left front landing, and gives the side guards and steps a textured nonslip surface with smooth painted edges.
 
-[![R39 Base default cover, Camo rear quarter](images/r39/Base_Camo_rear_right_match.jpg)](images/r39/Base_Camo_rear_right_match.jpg)
+## R41 Base · default
 
-Clear roof and stern deck, capped beacon socket, rear turret cases removed, and rear dish upright. Both Camo and Charcoal are included.
+[![R41 Base default cover · Camo overview](images/r41/R41_Base_Camo_overall.jpg)](images/r41/R41_Base_Camo_overall.jpg)
 
-**[R39 Base model · private backup](https://drive.google.com/drive/folders/1YfPlkuD7XzAMmcixar8k4DCxxD1cyUiq)** · [Base model details](models/R39-Base.md)
+The clean configuration has the removable stowage boxes and roof beacon off. The Blender file includes Camo, Charcoal and neutral clay scenes.
+
+**[Download R41 Base Blender · private](https://drive.google.com/drive/folders/1QI7Mmyuf5BK-llpZPZ6dbVEALC9ZeOqu)** · [Base model details](models/R41-Base.md)
 
 ### Base gallery
 
+| Detail | Detail |
+| --- | --- |
+| [![Visor handle and mounts](images/r41/R41_Base_Camo_driver_front.jpg)](images/r41/R41_Base_Camo_driver_front.jpg) | [![Visor handle · underside](images/r41/R41_Base_Camo_driver_underside.jpg)](images/r41/R41_Base_Camo_driver_underside.jpg) |
+| Visor handle and mounts | Visor handle · underside |
+| [![Right rear deck](images/r41/R41_Base_Camo_deck_rear.jpg)](images/r41/R41_Base_Camo_deck_rear.jpg) | [![Folded deck plate · close-up](images/r41/R41_Base_Camo_deck_tight.jpg)](images/r41/R41_Base_Camo_deck_tight.jpg) |
+| Right rear deck | Folded deck plate · close-up |
+| [![Left front landing](images/r41/R41_Base_Camo_landing.jpg)](images/r41/R41_Base_Camo_landing.jpg) | [![Left front landing · high angle](images/r41/R41_Base_Camo_landing_high.jpg)](images/r41/R41_Base_Camo_landing_high.jpg) |
+| Left front landing | Left front landing · high angle |
+
+[![R41 Base left side guard · Camo](images/r41/R41_Base_Camo_guard_left.jpg)](images/r41/R41_Base_Camo_guard_left.jpg)
+
 | Camo | Charcoal |
 | --- | --- |
-| [![R39 Base, Camo, Matched rear quarter](images/r39/Base_Camo_rear_right_match.jpg)](images/r39/Base_Camo_rear_right_match.jpg) | [![R39 Base, Charcoal, Matched rear quarter](images/r39/Base_Charcoal_rear_right_match.jpg)](images/r39/Base_Charcoal_rear_right_match.jpg) |
-| Matched rear quarter | Matched rear quarter |
-| [![R39 Base, Camo, Front left](images/r39/Base_Camo_front_left.jpg)](images/r39/Base_Camo_front_left.jpg) | [![R39 Base, Charcoal, Front left](images/r39/Base_Charcoal_front_left.jpg)](images/r39/Base_Charcoal_front_left.jpg) |
-| Front left | Front left |
-| [![R39 Base, Camo, Rear right](images/r39/Base_Camo_rear_right.jpg)](images/r39/Base_Camo_rear_right.jpg) | [![R39 Base, Charcoal, Rear right](images/r39/Base_Charcoal_rear_right.jpg)](images/r39/Base_Charcoal_rear_right.jpg) |
-| Rear right | Rear right |
-| [![R39 Base, Camo, Roof and beacon socket](images/r39/Base_Camo_roof_left.jpg)](images/r39/Base_Camo_roof_left.jpg) | [![R39 Base, Charcoal, Roof and beacon socket](images/r39/Base_Charcoal_roof_left.jpg)](images/r39/Base_Charcoal_roof_left.jpg) |
-| Roof and beacon socket | Roof and beacon socket |
+| [![Right guard and steps · Camo](images/r41/R41_Base_Camo_guard_right.jpg)](images/r41/R41_Base_Camo_guard_right.jpg) | [![Right guard and steps · Charcoal](images/r41/R41_Base_Charcoal_guard_right.jpg)](images/r41/R41_Base_Charcoal_guard_right.jpg) |
+| Right guard and steps · Camo | Right guard and steps · Charcoal |
 
-## R39 Equipped
+## R41 Equipped
 
-Twin roof boxes, rear turret cases, stern-deck chest and amber beacon fitted. The rear dish is folded. Both Camo and Charcoal are included.
+The equipped configuration adds the removable roof and rear stowage boxes and the amber roof beacon. Camo, Charcoal and neutral clay scenes are included.
 
-**[R39 Equipped model · private backup](https://drive.google.com/drive/folders/1g1qRpcmWeL2G3Rfu96JNgiqVqBs4rktl)** · [Equipped model details](models/R39-Equipped.md)
-
-[![R39 Equipped lead, Camo front left](images/r39/Equipped_Camo_front_left.jpg)](images/r39/Equipped_Camo_front_left.jpg)
-
-[![R39 Equipped roof close-up with fitted amber beacon](images/r39/Equipped_Camo_roof_left.jpg)](images/r39/Equipped_Camo_roof_left.jpg)
+**[Download R41 Equipped Blender · private](https://drive.google.com/drive/folders/1ta_ChP8RNi4hOUMWhQawuadrvg0nYpKh)** · [Equipped model details](models/R41-Equipped.md)
 
 ### Equipped gallery
 
 | Camo | Charcoal |
 | --- | --- |
-| [![R39 Equipped, Camo, Front left](images/r39/Equipped_Camo_front_left.jpg)](images/r39/Equipped_Camo_front_left.jpg) | [![R39 Equipped, Charcoal, Front left](images/r39/Equipped_Charcoal_front_left.jpg)](images/r39/Equipped_Charcoal_front_left.jpg) |
-| Front left | Front left |
-| [![R39 Equipped, Camo, Roof and beacon socket](images/r39/Equipped_Camo_roof_left.jpg)](images/r39/Equipped_Camo_roof_left.jpg) | [![R39 Equipped, Charcoal, Roof and beacon socket](images/r39/Equipped_Charcoal_roof_left.jpg)](images/r39/Equipped_Charcoal_roof_left.jpg) |
-| Roof and beacon socket | Roof and beacon socket |
-| [![R39 Equipped, Camo, Matched rear quarter](images/r39/Equipped_Camo_rear_right_match.jpg)](images/r39/Equipped_Camo_rear_right_match.jpg) | [![R39 Equipped, Charcoal, Matched rear quarter](images/r39/Equipped_Charcoal_rear_right_match.jpg)](images/r39/Equipped_Charcoal_rear_right_match.jpg) |
-| Matched rear quarter | Matched rear quarter |
-| [![R39 Equipped, Camo, Rear right](images/r39/Equipped_Camo_rear_right.jpg)](images/r39/Equipped_Camo_rear_right.jpg) | [![R39 Equipped, Charcoal, Rear right](images/r39/Equipped_Charcoal_rear_right.jpg)](images/r39/Equipped_Charcoal_rear_right.jpg) |
-| Rear right | Rear right |
+| [![R41 Equipped overview · Camo](images/r41/R41_Equipped_Camo_overall.jpg)](images/r41/R41_Equipped_Camo_overall.jpg) | [![R41 Equipped overview · Charcoal](images/r41/R41_Equipped_Charcoal_overall.jpg)](images/r41/R41_Equipped_Charcoal_overall.jpg) |
+| R41 Equipped overview · Camo | R41 Equipped overview · Charcoal |
 
-## Base and Equipped
+| Camo | Charcoal |
+| --- | --- |
+| [![Rear deck · Camo](images/r41/R41_Equipped_Camo_deck_rear.jpg)](images/r41/R41_Equipped_Camo_deck_rear.jpg) | [![Rear deck · Charcoal](images/r41/R41_Equipped_Charcoal_deck_rear.jpg)](images/r41/R41_Equipped_Charcoal_deck_rear.jpg) |
+| Rear deck · Camo | Rear deck · Charcoal |
 
-[![R39 Base and Equipped model-only comparison](images/r39/Gepard_R39_Base_and_Equipped.jpg)](images/r39/Gepard_R39_Base_and_Equipped.jpg)
+[![R41 Equipped right guard and steps · Charcoal](images/r41/R41_Equipped_Charcoal_guard_right.jpg)](images/r41/R41_Equipped_Charcoal_guard_right.jpg)
 
-[Rendering notes and model identities](images/r39/RENDERING.md) · [Image checksums](images/r39/manifest.json) · [Rights and attribution](RIGHTS.md)
+[Rendering notes and model identities](images/r41/RENDERING.md) · [Image checksums](images/r41/manifest.json) · [Rights and attribution](RIGHTS.md)
 
-[R38 gallery and turntable](R38-ARCHIVE.md) · [R33 gallery](R33-ARCHIVE.md) · [Detail10 gallery](DETAIL10-ARCHIVE.md)
+[R39 gallery](R39-ARCHIVE.md) · [R38 gallery and turntable](R38-ARCHIVE.md) · [R33 gallery](R33-ARCHIVE.md) · [Detail10 gallery](DETAIL10-ARCHIVE.md)

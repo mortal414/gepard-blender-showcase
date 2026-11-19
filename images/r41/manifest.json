@@ -1,0 +1,454 @@
+{
+  "revision": "R41",
+  "default_variant": "Base",
+  "cover": "R41_Base_Camo_overall.jpg",
+  "equipped_lead": [
+    "R41_Equipped_Camo_overall.jpg",
+    "R41_Equipped_Charcoal_overall.jpg"
+  ],
+  "models": {
+    "Base": {
+      "filename": "Gepard_R41_Base_Exterior_20261119.blend",
+      "sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "bytes": 790112957,
+      "folder_id": "1QI7Mmyuf5BK-llpZPZ6dbVEALC9ZeOqu",
+      "folder_url": "https://drive.google.com/drive/folders/1QI7Mmyuf5BK-llpZPZ6dbVEALC9ZeOqu",
+      "packed_images": 247
+    },
+    "Equipped": {
+      "filename": "Gepard_R41_Equipped_Exterior_20261119.blend",
+      "sha256": "5131675378b1244c4d9309ca5b96ab4b83738ea77784652ec761c6abf521a68f",
+      "bytes": 790105495,
+      "folder_id": "1ta_ChP8RNi4hOUMWhQawuadrvg0nYpKh",
+      "folder_url": "https://drive.google.com/drive/folders/1ta_ChP8RNi4hOUMWhQawuadrvg0nYpKh",
+      "packed_images": 247
+    }
+  },
+  "render_counts": {
+    "Base": 10,
+    "Equipped": 5
+  },
+  "decoded_pixels_unchanged": true,
+  "files": [
+    {
+      "path": "R41_Base_Camo_deck_rear.jpg",
+      "variant": "Base",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 162598,
+      "sha256": "2b2a1e61ec74561bd551f4526b60d7088ddbb15d783fdf8b4114b75468db9722",
+      "source_render_sha256": "4ad4ea159df2de5cbf8d8507b54fc9bc14b3c4c92c6d146cfe58431e2e0f7658",
+      "source_model_sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "camera": [
+        [
+          1,
+          -0.96,
+          0.86
+        ],
+        [
+          1.25,
+          -0.81,
+          1.77
+        ],
+        2.35
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Base_Camo_deck_tight.jpg",
+      "variant": "Base",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 144298,
+      "sha256": "e982fd4eb7d86ea74da1bcb93faf9b699726c107a1f01feb1b8d0ef76b578cfe",
+      "source_render_sha256": "13b4cd8369679f64e38bbaf6e4746a35fc256705427941d117a4f9fdc9ceb242",
+      "source_model_sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "camera": [
+        [
+          1,
+          -0.77,
+          0.63
+        ],
+        [
+          1.29,
+          -0.84,
+          1.71
+        ],
+        1.66
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Base_Camo_driver_front.jpg",
+      "variant": "Base",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 125547,
+      "sha256": "d1662097f665027feddf7c1b7d5271a8de389d0632f7892709760e39204262ff",
+      "source_render_sha256": "0de3e54e6b3036552c08dee70f7c698abc549953d82c2f3c814b4db9e4407df6",
+      "source_model_sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "camera": [
+        [
+          0.025,
+          1,
+          0.045
+        ],
+        [
+          0.831,
+          2,
+          1.722
+        ],
+        0.99
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Base_Camo_driver_underside.jpg",
+      "variant": "Base",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 122107,
+      "sha256": "401e9bb700838aadaeca086d8bdd700e6cb526c1348677ca07b7166d80c21be0",
+      "source_render_sha256": "fccac89ca74bee07f8aef5cd68f9534e68eb18c7e94fa0a094107e2e2b9f3700",
+      "source_model_sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "camera": [
+        [
+          0.4,
+          1,
+          -0.05
+        ],
+        [
+          0.849,
+          2.018,
+          1.747
+        ],
+        0.7
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Base_Camo_guard_left.jpg",
+      "variant": "Base",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 137173,
+      "sha256": "765b9284119c190f2d93d5040d59e2bc681e674300e3736aadc6ccb6964b14cc",
+      "source_render_sha256": "59dc27717a4693e41f30a8a29ac73034e3d8d48c1992f0e8a496fa1080c0bfa1",
+      "source_model_sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "camera": [
+        [
+          -1.18,
+          -0.95,
+          0.3
+        ],
+        [
+          -1.386,
+          0.625,
+          2.125
+        ],
+        0.92
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Base_Camo_guard_right.jpg",
+      "variant": "Base",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 154240,
+      "sha256": "95956878460a3cb2af57dfc88e26b9aec9dcd0e5612bdba38ea13627cbe0ac91",
+      "source_render_sha256": "8b7dfd69b41320c036be1df7263d9cc39ae09b47eb38f93a15b64dd34bbba401",
+      "source_model_sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "camera": [
+        [
+          1.07,
+          -0.79,
+          0.84
+        ],
+        [
+          1.386,
+          0.64,
+          2.208
+        ],
+        0.86
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Base_Camo_landing.jpg",
+      "variant": "Base",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 145406,
+      "sha256": "c82f3feb13a6b1740ef45cca5ac452ac6c06973a1e155a8148b81d16b4db195e",
+      "source_render_sha256": "8f966da2aae377c2907b6f959e6aeb0627059cd02589a233017ff50ac870dc0c",
+      "source_model_sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "camera": [
+        [
+          -0.98,
+          0.44,
+          0.6
+        ],
+        [
+          -1.205,
+          1.315,
+          1.69
+        ],
+        1.49
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Base_Camo_landing_high.jpg",
+      "variant": "Base",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 115460,
+      "sha256": "6708dc099023543534246e778bbba2cbbbf7d6798082b169ebd565a8cc8b09fc",
+      "source_render_sha256": "3dd97098642a12e9e12bcfe3d6a2fd9afb6b8dc06406bec527000c8876379bfc",
+      "source_model_sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "camera": [
+        [
+          -0.89,
+          0.26,
+          1.25
+        ],
+        [
+          -1.19,
+          1.32,
+          1.68
+        ],
+        1.28
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Base_Camo_overall.jpg",
+      "variant": "Base",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 135317,
+      "sha256": "fec8ede83ad09be0bfe748cf2ffa4ac55c431502b6caeecbb778d127c5eec10c",
+      "source_render_sha256": "0862fc0d3b5d20894ca64f608de531cccde966a64247281ddc5fdffc1e4bac49",
+      "source_model_sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "camera": [
+        [
+          0.83,
+          1.32,
+          0.96
+        ],
+        [
+          0.14,
+          0.17,
+          1.91
+        ],
+        10.62
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Base_Charcoal_guard_right.jpg",
+      "variant": "Base",
+      "finish": "Charcoal",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 148261,
+      "sha256": "eeb7e59e888cb36d75e8bf58a4163c846a7b9a914f343379dc4f21605fa44fe0",
+      "source_render_sha256": "c2d9a9f96e0f2cdbd335f54bc8d60d7cc51b0b19c74894d3485f0ace9a0a450a",
+      "source_model_sha256": "dd977abe3a0eb2e1e9fbd4b77bb80692be6ea77581da6f37ed74fbbe35a1e575",
+      "camera": [
+        [
+          1.07,
+          -0.79,
+          0.84
+        ],
+        [
+          1.386,
+          0.64,
+          2.208
+        ],
+        0.86
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Equipped_Camo_deck_rear.jpg",
+      "variant": "Equipped",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 165112,
+      "sha256": "516111bb0f94f01ef4f3515303a5923aaf39ecd499c63b60c82e276dc7c5adbc",
+      "source_render_sha256": "f2186c051e2acbff55e4a4d7b322b4c2e0537c938803367e0122ac7ffcc717ca",
+      "source_model_sha256": "5131675378b1244c4d9309ca5b96ab4b83738ea77784652ec761c6abf521a68f",
+      "camera": [
+        [
+          1,
+          -0.96,
+          0.86
+        ],
+        [
+          1.25,
+          -0.81,
+          1.77
+        ],
+        2.35
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Equipped_Camo_overall.jpg",
+      "variant": "Equipped",
+      "finish": "Camo",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 136038,
+      "sha256": "34f82c490d9580f7f41eb9189c79f19416e6c15cba491fab65333a96a134f0a3",
+      "source_render_sha256": "7bd9ec6a8be6aed111ed536e67824421fe9c33b2fc36e8caf09955d4c93c3db4",
+      "source_model_sha256": "5131675378b1244c4d9309ca5b96ab4b83738ea77784652ec761c6abf521a68f",
+      "camera": [
+        [
+          0.83,
+          1.32,
+          0.96
+        ],
+        [
+          0.14,
+          0.17,
+          1.91
+        ],
+        10.62
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Equipped_Charcoal_deck_rear.jpg",
+      "variant": "Equipped",
+      "finish": "Charcoal",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 150863,
+      "sha256": "b2ea579ac62727a43ef37039f737144329a6b5acec294e34d0f141e0bbd3fbdd",
+      "source_render_sha256": "a7e138d873f04458015c6a2cd88b633608bebeeb308fb62bc48193392319ca1e",
+      "source_model_sha256": "5131675378b1244c4d9309ca5b96ab4b83738ea77784652ec761c6abf521a68f",
+      "camera": [
+        [
+          1,
+          -0.96,
+          0.86
+        ],
+        [
+          1.25,
+          -0.81,
+          1.77
+        ],
+        2.35
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Equipped_Charcoal_guard_right.jpg",
+      "variant": "Equipped",
+      "finish": "Charcoal",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 147794,
+      "sha256": "9a1a17f994bda475d91a1fce5ef0fbbd5086449702c510ee29043820843e2ac4",
+      "source_render_sha256": "8ccaaa85bb42291cc95c95b8e592e55889f91e7e31f78408863a213292fa345c",
+      "source_model_sha256": "5131675378b1244c4d9309ca5b96ab4b83738ea77784652ec761c6abf521a68f",
+      "camera": [
+        [
+          1.07,
+          -0.79,
+          0.84
+        ],
+        [
+          1.386,
+          0.64,
+          2.208
+        ],
+        0.86
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "R41_Equipped_Charcoal_overall.jpg",
+      "variant": "Equipped",
+      "finish": "Charcoal",
+      "pixels": [
+        1040,
+        700
+      ],
+      "bytes": 128122,
+      "sha256": "402e064305a00dc53cbadc8340c685018d06b2bf3766938f7a5c68aaa2d2d7fb",
+      "source_render_sha256": "e5ae343f9394e389099732c93bf5a6ee8d4593c685b8224c96bfb18d4a1c6b15",
+      "source_model_sha256": "5131675378b1244c4d9309ca5b96ab4b83738ea77784652ec761c6abf521a68f",
+      "camera": [
+        [
+          0.83,
+          1.32,
+          0.96
+        ],
+        [
+          0.14,
+          0.17,
+          1.91
+        ],
+        10.62
+      ],
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true
+    }
+  ]
+}
