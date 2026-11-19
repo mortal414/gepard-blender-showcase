@@ -31,9 +31,6 @@ R38 corrects the rear lamp housings and shelves, the recess beside the front ova
 
 These are model-only Blender renders. The native Blender source is preserved through the private model-research workflow. The master is kept unchanged; edits and export use named copies. Private reference photographs, marked workbooks and comparison boards are excluded from this showcase.
 
-### Status and limits
-
-This is the accepted Blender exterior, with remaining model uncertainties. It does not establish real mechanical stops, hidden construction, dimensional certification or a functioning game vehicle. Arma Reforger porting is a separate task; the [published game release](https://github.com/mortal414/gepard) is separate.
 
 [Rendering notes and source identity](images/r38/RENDERING.md) · [Media checksums](images/r38/manifest.json) · [Render verification](images/r38/VERIFICATION.json)
 
