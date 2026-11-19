@@ -1,37 +1,53 @@
 # Gepard 1A2
 
-**Accepted R38 Blender exterior · 19 November 2026.** Camouflage and charcoal finishes, shown with the removable roof boxes and stern chest fitted.
+## R39 Base · default
 
-## Gallery
+[![R39 Base default cover, Camo rear quarter](images/r39/Base_Camo_rear_right_match.jpg)](images/r39/Base_Camo_rear_right_match.jpg)
 
-| Camouflage | Charcoal |
+Clear roof and stern deck, capped beacon socket, rear turret cases removed, and rear dish upright. Both Camo and Charcoal are included.
+
+**[R39 Base model · private backup](https://drive.google.com/drive/folders/1YfPlkuD7XzAMmcixar8k4DCxxD1cyUiq)** · [Base model details](models/R39-Base.md)
+
+### Base gallery
+
+| Camo | Charcoal |
 | --- | --- |
-| [![R38 front three-quarter, camouflage](images/r38/camo-front.jpg)](images/r38/camo-front.jpg) | [![R38 front three-quarter, charcoal](images/r38/charcoal-front.jpg)](images/r38/charcoal-front.jpg) |
-| Front three-quarter | Front three-quarter |
-| [![R38 rear three-quarter, camouflage](images/r38/camo-rear.jpg)](images/r38/camo-rear.jpg) | [![R38 rear three-quarter, charcoal](images/r38/charcoal-rear.jpg)](images/r38/charcoal-rear.jpg) |
-| Rear three-quarter | Rear three-quarter |
-| [![R38 turret and radar, camouflage](images/r38/camo-detail.jpg)](images/r38/camo-detail.jpg) | [![R38 turret and radar, charcoal](images/r38/charcoal-detail.jpg)](images/r38/charcoal-detail.jpg) |
-| Turret and front tracking radar | Turret and front tracking radar |
+| [![R39 Base, Camo, Matched rear quarter](images/r39/Base_Camo_rear_right_match.jpg)](images/r39/Base_Camo_rear_right_match.jpg) | [![R39 Base, Charcoal, Matched rear quarter](images/r39/Base_Charcoal_rear_right_match.jpg)](images/r39/Base_Charcoal_rear_right_match.jpg) |
+| Matched rear quarter | Matched rear quarter |
+| [![R39 Base, Camo, Front left](images/r39/Base_Camo_front_left.jpg)](images/r39/Base_Camo_front_left.jpg) | [![R39 Base, Charcoal, Front left](images/r39/Base_Charcoal_front_left.jpg)](images/r39/Base_Charcoal_front_left.jpg) |
+| Front left | Front left |
+| [![R39 Base, Camo, Rear right](images/r39/Base_Camo_rear_right.jpg)](images/r39/Base_Camo_rear_right.jpg) | [![R39 Base, Charcoal, Rear right](images/r39/Base_Charcoal_rear_right.jpg)](images/r39/Base_Charcoal_rear_right.jpg) |
+| Rear right | Rear right |
+| [![R39 Base, Camo, Roof and beacon socket](images/r39/Base_Camo_roof_left.jpg)](images/r39/Base_Camo_roof_left.jpg) | [![R39 Base, Charcoal, Roof and beacon socket](images/r39/Base_Charcoal_roof_left.jpg)](images/r39/Base_Charcoal_roof_left.jpg) |
+| Roof and beacon socket | Roof and beacon socket |
 
-### Turntable
+## R39 Equipped
 
-![R38 camouflage model, 360-degree turntable](images/r38/camo-turntable.gif)
+Twin roof boxes, rear turret cases, stern-deck chest and amber beacon fitted. The rear dish is folded. Both Camo and Charcoal are included.
 
-[Watch the R38 MP4](images/r38/camo-turntable.mp4)
+**[R39 Equipped model · private backup](https://drive.google.com/drive/folders/1g1qRpcmWeL2G3Rfu96JNgiqVqBs4rktl)** · [Equipped model details](models/R39-Equipped.md)
 
-### Neutral exterior
+[![R39 Equipped lead, Camo front left](images/r39/Equipped_Camo_front_left.jpg)](images/r39/Equipped_Camo_front_left.jpg)
 
-| Front three-quarter | Rear three-quarter |
+[![R39 Equipped roof close-up with fitted amber beacon](images/r39/Equipped_Camo_roof_left.jpg)](images/r39/Equipped_Camo_roof_left.jpg)
+
+### Equipped gallery
+
+| Camo | Charcoal |
 | --- | --- |
-| [![R38 neutral clay, front](images/r38/clay-front.jpg)](images/r38/clay-front.jpg) | [![R38 neutral clay, rear](images/r38/clay-rear.jpg)](images/r38/clay-rear.jpg) |
+| [![R39 Equipped, Camo, Front left](images/r39/Equipped_Camo_front_left.jpg)](images/r39/Equipped_Camo_front_left.jpg) | [![R39 Equipped, Charcoal, Front left](images/r39/Equipped_Charcoal_front_left.jpg)](images/r39/Equipped_Charcoal_front_left.jpg) |
+| Front left | Front left |
+| [![R39 Equipped, Camo, Roof and beacon socket](images/r39/Equipped_Camo_roof_left.jpg)](images/r39/Equipped_Camo_roof_left.jpg) | [![R39 Equipped, Charcoal, Roof and beacon socket](images/r39/Equipped_Charcoal_roof_left.jpg)](images/r39/Equipped_Charcoal_roof_left.jpg) |
+| Roof and beacon socket | Roof and beacon socket |
+| [![R39 Equipped, Camo, Matched rear quarter](images/r39/Equipped_Camo_rear_right_match.jpg)](images/r39/Equipped_Camo_rear_right_match.jpg) | [![R39 Equipped, Charcoal, Matched rear quarter](images/r39/Equipped_Charcoal_rear_right_match.jpg)](images/r39/Equipped_Charcoal_rear_right_match.jpg) |
+| Matched rear quarter | Matched rear quarter |
+| [![R39 Equipped, Camo, Rear right](images/r39/Equipped_Camo_rear_right.jpg)](images/r39/Equipped_Camo_rear_right.jpg) | [![R39 Equipped, Charcoal, Rear right](images/r39/Equipped_Charcoal_rear_right.jpg)](images/r39/Equipped_Charcoal_rear_right.jpg) |
+| Rear right | Rear right |
 
-## About R38
+## Base and Equipped
 
-R38 corrects the rear lamp housings and shelves, the recess beside the front oval radar cover, and the lower turret cheek crease. The lower turret sheets carry distinct left- and right-side details. The accepted native file opens in neutral clay, with Camo and Charcoal scenes and independent roof-box and stern-chest display switches.
+[![R39 Base and Equipped model-only comparison](images/r39/Gepard_R39_Base_and_Equipped.jpg)](images/r39/Gepard_R39_Base_and_Equipped.jpg)
 
-These are model-only Blender renders. The native Blender source is preserved through the private model-research workflow. The master is kept unchanged; edits and export use named copies. Private reference photographs, marked workbooks and comparison boards are excluded from this showcase.
+[Rendering notes and model identities](images/r39/RENDERING.md) · [Image checksums](images/r39/manifest.json) · [Rights and attribution](RIGHTS.md)
 
-
-[Rendering notes and source identity](images/r38/RENDERING.md) · [Media checksums](images/r38/manifest.json) · [Render verification](images/r38/VERIFICATION.json)
-
-[R33 gallery · 17 November](R33-ARCHIVE.md) · [Detail10 gallery · 4 November](DETAIL10-ARCHIVE.md) · [Rights and attribution](RIGHTS.md)
+[R38 gallery and turntable](R38-ARCHIVE.md) · [R33 gallery](R33-ARCHIVE.md) · [Detail10 gallery](DETAIL10-ARCHIVE.md)

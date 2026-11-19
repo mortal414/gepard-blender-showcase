@@ -1,0 +1,654 @@
+{
+  "revision": "R39",
+  "default_variant": "Base",
+  "cover": "Base_Camo_rear_right_match.jpg",
+  "equipped_lead": "Equipped_Camo_front_left.jpg",
+  "equipped_roof_closeup": "Equipped_Camo_roof_left.jpg",
+  "native_sources": {
+    "Base": {
+      "filename": "Gepard_R39_Base_Exterior_20261119.blend",
+      "sha256": "b1900c7113dfb1105591ee9e66e69b8ebe5ae05bd0b445208591bc5dd9a4b668",
+      "bytes": 789689654,
+      "folder_url": "https://drive.google.com/drive/folders/1YfPlkuD7XzAMmcixar8k4DCxxD1cyUiq",
+      "packed_images": 247,
+      "blender": "4.5.16 LTS",
+      "independent_reopen": "PASS"
+    },
+    "Equipped": {
+      "filename": "Gepard_R39_Equipped_Exterior_20261119.blend",
+      "sha256": "20a241807020665ce105606e080d1ea0c0df1649a9ea40a41b9c987e6cd7e1dc",
+      "bytes": 789720659,
+      "folder_url": "https://drive.google.com/drive/folders/1g1qRpcmWeL2G3Rfu96JNgiqVqBs4rktl",
+      "packed_images": 247,
+      "blender": "4.5.16 LTS",
+      "independent_reopen": "PASS"
+    }
+  },
+  "render_count": 16,
+  "model_only_comparison_count": 1,
+  "decoded_pixels_unchanged": true,
+  "metadata_stripped_without_reencoding": true,
+  "files": [
+    {
+      "path": "Base_Camo_rear_right_match.jpg",
+      "sha256": "78ed07f5e7b75714c9244e4b772f9e9e705edfb407e5c7c03aee6521e5a8a1f9",
+      "bytes": 208292,
+      "pixels": [
+        1440,
+        810
+      ],
+      "source_render_sha256": "9446077b034f4d909f624e34602ca1913d94a340427691433de8c373eda2dd48",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "rear_right_match",
+      "camera": {
+        "direction": [
+          1,
+          -0.661,
+          0.598
+        ],
+        "target": [
+          0.06,
+          -0.12,
+          1.31
+        ],
+        "scale": 10.5
+      },
+      "visibility": {
+        "roof": false,
+        "stern": false,
+        "attached_lamp": false,
+        "short_cap": true,
+        "fixed_socket": true,
+        "roof_body": false
+      },
+      "visible_lamp_or_cap_fraction": 0.9722,
+      "source_sha256": "b1900c7113dfb1105591ee9e66e69b8ebe5ae05bd0b445208591bc5dd9a4b668"
+    },
+    {
+      "path": "Base_Camo_front_left.jpg",
+      "sha256": "1114b404a3cf312ef35e6aea97364fa276ac7f08d41373aa2f2a1a44e0ad1c66",
+      "bytes": 208996,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "ee4b9d728ceabd01fc1d0f01a4f4995fd75bbffd31b4dd248bdea3c87ec9a129",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "front_left",
+      "camera": {
+        "direction": [
+          -1.1,
+          1.24,
+          0.63
+        ],
+        "target": [
+          0.0,
+          -0.12,
+          1.85
+        ],
+        "scale": 10.05
+      },
+      "visibility": {
+        "roof": false,
+        "stern": false,
+        "attached_lamp": false,
+        "short_cap": true,
+        "fixed_socket": true,
+        "roof_body": false
+      },
+      "visible_lamp_or_cap_fraction": 0.9167,
+      "source_sha256": "b1900c7113dfb1105591ee9e66e69b8ebe5ae05bd0b445208591bc5dd9a4b668"
+    },
+    {
+      "path": "Base_Camo_rear_right.jpg",
+      "sha256": "8c4a91edf499c9ace403a862d09f047138ac619fd3aa0b7a33b62be2c1ae94ed",
+      "bytes": 218002,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "247dcc4ed1830b4aff519dfd2df1f38632f352a128b10447422c7f2182883589",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "rear_right",
+      "camera": {
+        "direction": [
+          1.23,
+          -1.32,
+          0.94
+        ],
+        "target": [
+          0.0,
+          -0.12,
+          1.85
+        ],
+        "scale": 10.05
+      },
+      "visibility": {
+        "roof": false,
+        "stern": false,
+        "attached_lamp": false,
+        "short_cap": true,
+        "fixed_socket": true,
+        "roof_body": false
+      },
+      "visible_lamp_or_cap_fraction": 0.8194,
+      "source_sha256": "b1900c7113dfb1105591ee9e66e69b8ebe5ae05bd0b445208591bc5dd9a4b668"
+    },
+    {
+      "path": "Base_Camo_roof_left.jpg",
+      "sha256": "09e8c610bcde57050d770678146818716bff7838f61651fa6813a9613b397908",
+      "bytes": 173908,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "dda739c5c1f893e031c53a633eb169d2256a2bb37206347de11e6577e4770662",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "roof_left",
+      "camera": {
+        "direction": [
+          -1.1,
+          1.24,
+          0.63
+        ],
+        "target": [
+          -0.645,
+          -0.3,
+          3.16
+        ],
+        "scale": 1.5
+      },
+      "visibility": {
+        "roof": false,
+        "stern": false,
+        "attached_lamp": false,
+        "short_cap": true,
+        "fixed_socket": true,
+        "roof_body": false
+      },
+      "visible_lamp_or_cap_fraction": 0.9167,
+      "source_sha256": "b1900c7113dfb1105591ee9e66e69b8ebe5ae05bd0b445208591bc5dd9a4b668"
+    },
+    {
+      "path": "Base_Charcoal_rear_right_match.jpg",
+      "sha256": "884e73c7de20d1c012652f94388a4c81bf254e2f8acbda0f0d06deeb8f122559",
+      "bytes": 194705,
+      "pixels": [
+        1440,
+        810
+      ],
+      "source_render_sha256": "1b6360d41a38c0a7dc07d419e024422695dabb3ce0e1bf503dc692175e9f8c39",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Base",
+      "finish": "Charcoal",
+      "view": "rear_right_match",
+      "camera": {
+        "direction": [
+          1,
+          -0.661,
+          0.598
+        ],
+        "target": [
+          0.06,
+          -0.12,
+          1.31
+        ],
+        "scale": 10.5
+      },
+      "visibility": {
+        "roof": false,
+        "stern": false,
+        "attached_lamp": false,
+        "short_cap": true,
+        "fixed_socket": true,
+        "roof_body": false
+      },
+      "visible_lamp_or_cap_fraction": 0.9722,
+      "source_sha256": "b1900c7113dfb1105591ee9e66e69b8ebe5ae05bd0b445208591bc5dd9a4b668"
+    },
+    {
+      "path": "Base_Charcoal_front_left.jpg",
+      "sha256": "e9bd047861cd36adea3062403d1d8b03ab5c2767e31650b82db5b3b25acd1ba1",
+      "bytes": 196131,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "404bc9f162b5328f55fadaedacd9fcf47c106a86f572e895505ad839022f6580",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Base",
+      "finish": "Charcoal",
+      "view": "front_left",
+      "camera": {
+        "direction": [
+          -1.1,
+          1.24,
+          0.63
+        ],
+        "target": [
+          0.0,
+          -0.12,
+          1.85
+        ],
+        "scale": 10.05
+      },
+      "visibility": {
+        "roof": false,
+        "stern": false,
+        "attached_lamp": false,
+        "short_cap": true,
+        "fixed_socket": true,
+        "roof_body": false
+      },
+      "visible_lamp_or_cap_fraction": 0.9167,
+      "source_sha256": "b1900c7113dfb1105591ee9e66e69b8ebe5ae05bd0b445208591bc5dd9a4b668"
+    },
+    {
+      "path": "Base_Charcoal_rear_right.jpg",
+      "sha256": "4950a7176bc6881614277ff5fa82295968c6c78847ae9f5a814f8dad36d7bb53",
+      "bytes": 205050,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "ec01a753f6081c3d27301acba14405323e880a0ca9e12db4b52dfec97eab51e0",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Base",
+      "finish": "Charcoal",
+      "view": "rear_right",
+      "camera": {
+        "direction": [
+          1.23,
+          -1.32,
+          0.94
+        ],
+        "target": [
+          0.0,
+          -0.12,
+          1.85
+        ],
+        "scale": 10.05
+      },
+      "visibility": {
+        "roof": false,
+        "stern": false,
+        "attached_lamp": false,
+        "short_cap": true,
+        "fixed_socket": true,
+        "roof_body": false
+      },
+      "visible_lamp_or_cap_fraction": 0.8194,
+      "source_sha256": "b1900c7113dfb1105591ee9e66e69b8ebe5ae05bd0b445208591bc5dd9a4b668"
+    },
+    {
+      "path": "Base_Charcoal_roof_left.jpg",
+      "sha256": "ae8de454dd8de67d1941bc73a4d8735d1759a5c30ad05047c39741d070133d4b",
+      "bytes": 166722,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "164f1b1ec7ec783e0fcda550c78124babcc6fdfc76dd45420094944154205608",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Base",
+      "finish": "Charcoal",
+      "view": "roof_left",
+      "camera": {
+        "direction": [
+          -1.1,
+          1.24,
+          0.63
+        ],
+        "target": [
+          -0.645,
+          -0.3,
+          3.16
+        ],
+        "scale": 1.5
+      },
+      "visibility": {
+        "roof": false,
+        "stern": false,
+        "attached_lamp": false,
+        "short_cap": true,
+        "fixed_socket": true,
+        "roof_body": false
+      },
+      "visible_lamp_or_cap_fraction": 0.9167,
+      "source_sha256": "b1900c7113dfb1105591ee9e66e69b8ebe5ae05bd0b445208591bc5dd9a4b668"
+    },
+    {
+      "path": "Equipped_Camo_rear_right_match.jpg",
+      "sha256": "2f77a1d9b459b858397338f578fbaf000cee3c19b2c11cf46ad9e864dfa3303d",
+      "bytes": 205636,
+      "pixels": [
+        1440,
+        810
+      ],
+      "source_render_sha256": "83f183b8f2560e490eb6a4a7c073e680e49aef743eb6336755abcb1b1de93a1a",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "rear_right_match",
+      "camera": {
+        "direction": [
+          1,
+          -0.661,
+          0.598
+        ],
+        "target": [
+          0.06,
+          -0.12,
+          1.31
+        ],
+        "scale": 10.5
+      },
+      "visibility": {
+        "roof": true,
+        "stern": true,
+        "attached_lamp": true,
+        "short_cap": false,
+        "fixed_socket": true,
+        "roof_body": true
+      },
+      "visible_lamp_or_cap_fraction": 0.0,
+      "source_sha256": "20a241807020665ce105606e080d1ea0c0df1649a9ea40a41b9c987e6cd7e1dc"
+    },
+    {
+      "path": "Equipped_Camo_front_left.jpg",
+      "sha256": "c2c70fb20ff4bb033d693778da8d8f4dd381eb8e73753d85c033a0780c4ecbde",
+      "bytes": 211496,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "4512fbb82f0504120bef57c1934e51984250c437143a5ebe22728b5d7a45a9ad",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "front_left",
+      "camera": {
+        "direction": [
+          -1.1,
+          1.24,
+          0.63
+        ],
+        "target": [
+          0.0,
+          -0.12,
+          1.85
+        ],
+        "scale": 10.05
+      },
+      "visibility": {
+        "roof": true,
+        "stern": true,
+        "attached_lamp": true,
+        "short_cap": false,
+        "fixed_socket": true,
+        "roof_body": true
+      },
+      "visible_lamp_or_cap_fraction": 0.9875,
+      "source_sha256": "20a241807020665ce105606e080d1ea0c0df1649a9ea40a41b9c987e6cd7e1dc"
+    },
+    {
+      "path": "Equipped_Camo_rear_right.jpg",
+      "sha256": "4eb6cb211bbc4f28b9623c0b4dbda3e2971d12627e349284a1791f1f11b06888",
+      "bytes": 215252,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "eb5f85c2b60359a831f905ac50f8881a147ca17c9d5d04a75ba225aba3de9a67",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "rear_right",
+      "camera": {
+        "direction": [
+          1.23,
+          -1.32,
+          0.94
+        ],
+        "target": [
+          0.0,
+          -0.12,
+          1.85
+        ],
+        "scale": 10.05
+      },
+      "visibility": {
+        "roof": true,
+        "stern": true,
+        "attached_lamp": true,
+        "short_cap": false,
+        "fixed_socket": true,
+        "roof_body": true
+      },
+      "visible_lamp_or_cap_fraction": 0.0375,
+      "source_sha256": "20a241807020665ce105606e080d1ea0c0df1649a9ea40a41b9c987e6cd7e1dc"
+    },
+    {
+      "path": "Equipped_Camo_roof_left.jpg",
+      "sha256": "db8faff8e37696d63f7388007f1536dbc98fa0a498fac8260a22a90bd44a5ca1",
+      "bytes": 221007,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "50657d5c33f474dd29170f20d1e1085267e76be8798b09c35e7c6561845f25d9",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "roof_left",
+      "camera": {
+        "direction": [
+          -1.1,
+          1.24,
+          0.63
+        ],
+        "target": [
+          -0.645,
+          -0.3,
+          3.16
+        ],
+        "scale": 1.5
+      },
+      "visibility": {
+        "roof": true,
+        "stern": true,
+        "attached_lamp": true,
+        "short_cap": false,
+        "fixed_socket": true,
+        "roof_body": true
+      },
+      "visible_lamp_or_cap_fraction": 0.9875,
+      "source_sha256": "20a241807020665ce105606e080d1ea0c0df1649a9ea40a41b9c987e6cd7e1dc"
+    },
+    {
+      "path": "Equipped_Charcoal_rear_right_match.jpg",
+      "sha256": "c4fd4dd02ee22703cb83fd1c00a45f3c366997041c0371c82df0199cb0cc1fc4",
+      "bytes": 192588,
+      "pixels": [
+        1440,
+        810
+      ],
+      "source_render_sha256": "395a4ffb789504faee73dbbf6b02ca4fa895b985a8793c2d9fad4cf57947fee2",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Equipped",
+      "finish": "Charcoal",
+      "view": "rear_right_match",
+      "camera": {
+        "direction": [
+          1,
+          -0.661,
+          0.598
+        ],
+        "target": [
+          0.06,
+          -0.12,
+          1.31
+        ],
+        "scale": 10.5
+      },
+      "visibility": {
+        "roof": true,
+        "stern": true,
+        "attached_lamp": true,
+        "short_cap": false,
+        "fixed_socket": true,
+        "roof_body": true
+      },
+      "visible_lamp_or_cap_fraction": 0.0,
+      "source_sha256": "20a241807020665ce105606e080d1ea0c0df1649a9ea40a41b9c987e6cd7e1dc"
+    },
+    {
+      "path": "Equipped_Charcoal_front_left.jpg",
+      "sha256": "974d90f22ec131cb317bea6ba003dc5e4256df44e4f13a05a0c347b63b54a0bc",
+      "bytes": 198561,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "58cba9b523189ac540b71e5421aca8bb89a79185b0f773bf69cb4f5bd4916f10",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Equipped",
+      "finish": "Charcoal",
+      "view": "front_left",
+      "camera": {
+        "direction": [
+          -1.1,
+          1.24,
+          0.63
+        ],
+        "target": [
+          0.0,
+          -0.12,
+          1.85
+        ],
+        "scale": 10.05
+      },
+      "visibility": {
+        "roof": true,
+        "stern": true,
+        "attached_lamp": true,
+        "short_cap": false,
+        "fixed_socket": true,
+        "roof_body": true
+      },
+      "visible_lamp_or_cap_fraction": 0.9875,
+      "source_sha256": "20a241807020665ce105606e080d1ea0c0df1649a9ea40a41b9c987e6cd7e1dc"
+    },
+    {
+      "path": "Equipped_Charcoal_rear_right.jpg",
+      "sha256": "4ba88c6132ba47fe53d28797c6c1f8c90edf37352be23e2429ad533257248282",
+      "bytes": 202784,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "92cc196176b47f0b5d14d5dd48f29056ab1ac432061c98d8503d728289279ddb",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Equipped",
+      "finish": "Charcoal",
+      "view": "rear_right",
+      "camera": {
+        "direction": [
+          1.23,
+          -1.32,
+          0.94
+        ],
+        "target": [
+          0.0,
+          -0.12,
+          1.85
+        ],
+        "scale": 10.05
+      },
+      "visibility": {
+        "roof": true,
+        "stern": true,
+        "attached_lamp": true,
+        "short_cap": false,
+        "fixed_socket": true,
+        "roof_body": true
+      },
+      "visible_lamp_or_cap_fraction": 0.0375,
+      "source_sha256": "20a241807020665ce105606e080d1ea0c0df1649a9ea40a41b9c987e6cd7e1dc"
+    },
+    {
+      "path": "Equipped_Charcoal_roof_left.jpg",
+      "sha256": "12cccd455904e6c703809da8397c9446ca3135582f76bd1ddbd970a6f643e428",
+      "bytes": 213848,
+      "pixels": [
+        1440,
+        960
+      ],
+      "source_render_sha256": "f4afb9394c2d8c3bb7910671e4e65566e29bc022e12fabb73017e2643655d7b3",
+      "metadata_removed_without_reencoding": true,
+      "decoded_pixels_unchanged": true,
+      "variant": "Equipped",
+      "finish": "Charcoal",
+      "view": "roof_left",
+      "camera": {
+        "direction": [
+          -1.1,
+          1.24,
+          0.63
+        ],
+        "target": [
+          -0.645,
+          -0.3,
+          3.16
+        ],
+        "scale": 1.5
+      },
+      "visibility": {
+        "roof": true,
+        "stern": true,
+        "attached_lamp": true,
+        "short_cap": false,
+        "fixed_socket": true,
+        "roof_body": true
+      },
+      "visible_lamp_or_cap_fraction": 0.9875,
+      "source_sha256": "20a241807020665ce105606e080d1ea0c0df1649a9ea40a41b9c987e6cd7e1dc"
+    },
+    {
+      "path": "Gepard_R39_Base_and_Equipped.jpg",
+      "sha256": "ab819bb7fd3c3d1c8919e1ed2f0d2673a6cf546f4be906cad977430ca3aa474c",
+      "bytes": 586428,
+      "pixels": [
+        1670,
+        1742
+      ],
+      "source_render_sha256": "ab819bb7fd3c3d1c8919e1ed2f0d2673a6cf546f4be906cad977430ca3aa474c",
+      "metadata_removed_without_reencoding": false,
+      "decoded_pixels_unchanged": true,
+      "type": "Model-only side-by-side comparison of both R39 variants"
+    }
+  ]
+}
