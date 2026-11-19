@@ -1,53 +1,27 @@
 # Gepard 1A2
 
-R41 seats the driver’s visor handle against its mounts, restores the broad folded plate on the right rear deck, clears a triangular overlap on the left front landing, and gives the side guards and steps a textured nonslip surface with smooth painted edges.
+A Blender showcase of the Gepard 1A2 exterior, presented in Camo and Charcoal. **R41** is the current showcase revision, available in Base and Equipped configurations. Both Blender models also include a neutral clay scene.
 
 ## R41 Base · default
 
-[![R41 Base default cover · Camo overview](images/r41/R41_Base_Camo_overall.jpg)](images/r41/R41_Base_Camo_overall.jpg)
+[![Gepard 1A2 R41 Base · Camo overview](images/r41/R41_Base_Camo_overall.jpg)](images/r41/R41_Base_Camo_overall.jpg)
 
-The clean configuration has the removable stowage boxes and roof beacon off. The Blender file includes Camo, Charcoal and neutral clay scenes.
+The clean configuration has the removable stowage boxes and roof beacon off.
 
-**[Download R41 Base Blender · private](https://drive.google.com/drive/folders/1QI7Mmyuf5BK-llpZPZ6dbVEALC9ZeOqu)** · [Base model details](models/R41-Base.md)
-
-### Base gallery
-
-| Detail | Detail |
-| --- | --- |
-| [![Visor handle and mounts](images/r41/R41_Base_Camo_driver_front.jpg)](images/r41/R41_Base_Camo_driver_front.jpg) | [![Visor handle · underside](images/r41/R41_Base_Camo_driver_underside.jpg)](images/r41/R41_Base_Camo_driver_underside.jpg) |
-| Visor handle and mounts | Visor handle · underside |
-| [![Right rear deck](images/r41/R41_Base_Camo_deck_rear.jpg)](images/r41/R41_Base_Camo_deck_rear.jpg) | [![Folded deck plate · close-up](images/r41/R41_Base_Camo_deck_tight.jpg)](images/r41/R41_Base_Camo_deck_tight.jpg) |
-| Right rear deck | Folded deck plate · close-up |
-| [![Left front landing](images/r41/R41_Base_Camo_landing.jpg)](images/r41/R41_Base_Camo_landing.jpg) | [![Left front landing · high angle](images/r41/R41_Base_Camo_landing_high.jpg)](images/r41/R41_Base_Camo_landing_high.jpg) |
-| Left front landing | Left front landing · high angle |
-
-[![R41 Base left side guard · Camo](images/r41/R41_Base_Camo_guard_left.jpg)](images/r41/R41_Base_Camo_guard_left.jpg)
-
-| Camo | Charcoal |
-| --- | --- |
-| [![Right guard and steps · Camo](images/r41/R41_Base_Camo_guard_right.jpg)](images/r41/R41_Base_Camo_guard_right.jpg) | [![Right guard and steps · Charcoal](images/r41/R41_Base_Charcoal_guard_right.jpg)](images/r41/R41_Base_Charcoal_guard_right.jpg) |
-| Right guard and steps · Camo | Right guard and steps · Charcoal |
+**[Base model and private Blender download](models/R41-Base.md)** · [Full Base gallery](galleries/R41.md#base)
 
 ## R41 Equipped
 
-The equipped configuration adds the removable roof and rear stowage boxes and the amber roof beacon. Camo, Charcoal and neutral clay scenes are included.
-
-**[Download R41 Equipped Blender · private](https://drive.google.com/drive/folders/1ta_ChP8RNi4hOUMWhQawuadrvg0nYpKh)** · [Equipped model details](models/R41-Equipped.md)
-
-### Equipped gallery
+The equipped configuration adds the removable roof and rear stowage boxes and the amber roof beacon.
 
 | Camo | Charcoal |
 | --- | --- |
-| [![R41 Equipped overview · Camo](images/r41/R41_Equipped_Camo_overall.jpg)](images/r41/R41_Equipped_Camo_overall.jpg) | [![R41 Equipped overview · Charcoal](images/r41/R41_Equipped_Charcoal_overall.jpg)](images/r41/R41_Equipped_Charcoal_overall.jpg) |
-| R41 Equipped overview · Camo | R41 Equipped overview · Charcoal |
+| [![Gepard 1A2 R41 Equipped · Camo overview](images/r41/R41_Equipped_Camo_overall.jpg)](images/r41/R41_Equipped_Camo_overall.jpg) | [![Gepard 1A2 R41 Equipped · Charcoal overview](images/r41/R41_Equipped_Charcoal_overall.jpg)](images/r41/R41_Equipped_Charcoal_overall.jpg) |
 
-| Camo | Charcoal |
-| --- | --- |
-| [![Rear deck · Camo](images/r41/R41_Equipped_Camo_deck_rear.jpg)](images/r41/R41_Equipped_Camo_deck_rear.jpg) | [![Rear deck · Charcoal](images/r41/R41_Equipped_Charcoal_deck_rear.jpg)](images/r41/R41_Equipped_Charcoal_deck_rear.jpg) |
-| Rear deck · Camo | Rear deck · Charcoal |
+**[Equipped model and private Blender download](models/R41-Equipped.md)** · [Full Equipped gallery](galleries/R41.md#equipped)
 
-[![R41 Equipped right guard and steps · Charcoal](images/r41/R41_Equipped_Charcoal_guard_right.jpg)](images/r41/R41_Equipped_Charcoal_guard_right.jpg)
+## Explore the model
 
-[Rendering notes and model identities](images/r41/RENDERING.md) · [Image checksums](images/r41/manifest.json) · [Rights and attribution](RIGHTS.md)
-
-[R39 gallery](R39-ARCHIVE.md) · [R38 gallery and turntable](R38-ARCHIVE.md) · [R33 gallery](R33-ARCHIVE.md) · [Detail10 gallery](DETAIL10-ARCHIVE.md)
+- [Full R41 gallery](galleries/R41.md) — all 15 model renders, including the driver’s visor, deck, turret landings, side guards and steps.
+- [Revision history](HISTORY.md) — R41 changes and earlier galleries, including the R38 turntable.
+- [Rights and attribution](RIGHTS.md).

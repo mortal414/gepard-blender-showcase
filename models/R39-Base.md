@@ -15,4 +15,4 @@ The native model is private; this public repository contains its model-only gall
 
 The private backup contains numbered source parts, a manifest and restore instructions. Preserve the verified source and use named working copies for edits or export.
 
-[R39 Base gallery](../README.md#r39-base--default) · [Other model: R39 Equipped](R39-Equipped.md) · [Rights and attribution](../RIGHTS.md)
+[R39 Base gallery](../R39-ARCHIVE.md#r39-base--default) · [Other model: R39 Equipped](R39-Equipped.md) · [Rights and attribution](../RIGHTS.md)

@@ -8,8 +8,10 @@ The supplied images are 1040 × 700, rendered in Blender 4.5.16 LTS with Cycles,
 
 Base is the default, with `R41_Base_Camo_overall.jpg` as the cover. Equipped leads with the Camo and Charcoal overviews side by side. Each variant has a separate private Blender download and includes Camo, Charcoal and neutral clay. Native receipts record independent reopen PASS, all 247 images packed and 16 equipment-state checks per scene.
 
-R41 seats the driver’s visor handle against its mounts, restores the broad folded plate on the right rear deck, clears a triangular overlap on the left front landing, and gives the side guards and steps a textured nonslip surface with smooth painted edges.
+[R41 revision notes](../../HISTORY.md#r41--current-showcase)
 
 The R39 gallery is preserved unchanged in [R39-ARCHIVE.md](../../R39-ARCHIVE.md). R38, R33 and Detail10 media and galleries remain intact, including the historical turntables. [RIGHTS.md and attribution](../../RIGHTS.md) are unchanged. This update concerns the Blender showcase; the Reforger port remains a separate task.
+
+[Full R41 gallery](../../galleries/R41.md) · [Model overview](../../README.md)
 
 [Base model details](../../models/R41-Base.md) · [Equipped model details](../../models/R41-Equipped.md)

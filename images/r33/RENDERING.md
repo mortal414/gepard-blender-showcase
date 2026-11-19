@@ -12,7 +12,7 @@ Rendered on 17 November 2026 in Blender 4.5.15 LTS using Cycles on the assistant
 - The original source was hash-verified before rendering. Embedded project scripts were disabled. Source file identities and private research records are not distributed here.
 - Published JPEGs are high-quality encodings of the rendered PNGs. No generative imagery, composite scenery, shape repair or manual image retouching is used.
 
-These views show an accepted work-in-progress authoring baseline, not dimensional certification or the currently published game model. Some components remain unfinished. See the [project overview](../../README.md#status-and-limits) and [rights notices](../../RIGHTS.md).
+These views show an accepted work-in-progress authoring baseline, not dimensional certification or the currently published game model. Some components remain unfinished. See the [R33 gallery](../../R33-ARCHIVE.md) and [rights notices](../../RIGHTS.md).
 
 ## Turntable
 

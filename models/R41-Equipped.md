@@ -12,6 +12,6 @@ The private download contains numbered native-file parts, a manifest and restore
 - Scenes: `REFINEMENT_Camo`, `REFINEMENT_Charcoal`, `00 Exterior - neutral clay`
 - Native verification: Blender **4.5.16 LTS**, independent reopen PASS, **247 packed images**
 
-R41 seats the driver’s visor handle against its mounts, restores the broad folded plate on the right rear deck, clears a triangular overlap on the left front landing, and gives the side guards and steps a textured nonslip surface with smooth painted edges.
+[R41 revision notes](../HISTORY.md#r41--current-showcase)
 
-[R41 gallery](../README.md) · [Other model: R41 Base](R41-Base.md) · [Rights and attribution](../RIGHTS.md)
+[R41 Equipped gallery](../galleries/R41.md#equipped) · [Model overview](../README.md) · [Other model: R41 Base](R41-Base.md) · [Rights and attribution](../RIGHTS.md)
