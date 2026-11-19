@@ -20,18 +20,25 @@ The equipped configuration adds the removable roof and rear stowage boxes and th
 
 **[Equipped model and private Blender download](models/R41-Equipped.md)** · [Full Equipped gallery](galleries/R41.md#equipped)
 
-## Turntables
+## R41 detail gallery
 
-### R38 · earlier exterior checkpoint
-
-![R38 Camo exterior · 360-degree turntable](images/r38/camo-turntable.gif)
-
-[Watch the R38 MP4](images/r38/camo-turntable.mp4) · [R38 gallery](R38-ARCHIVE.md)
-
-[R33 turntable · MP4](images/r33/camo-turntable.mp4) · [R33 gallery](R33-ARCHIVE.md)
+| Exterior detail | Exterior detail |
+| --- | --- |
+| [![Driver’s visor handle](images/r41/R41_Base_Camo_driver_front.jpg)](images/r41/R41_Base_Camo_driver_front.jpg) | [![Visor mounts from below](images/r41/R41_Base_Camo_driver_underside.jpg)](images/r41/R41_Base_Camo_driver_underside.jpg) |
+| Driver’s visor handle | Visor mounts from below |
+| [![Base rear deck](images/r41/R41_Base_Camo_deck_rear.jpg)](images/r41/R41_Base_Camo_deck_rear.jpg) | [![Folded deck plate](images/r41/R41_Base_Camo_deck_tight.jpg)](images/r41/R41_Base_Camo_deck_tight.jpg) |
+| Base rear deck | Folded deck plate |
+| [![Left front landing](images/r41/R41_Base_Camo_landing.jpg)](images/r41/R41_Base_Camo_landing.jpg) | [![Landing from above](images/r41/R41_Base_Camo_landing_high.jpg)](images/r41/R41_Base_Camo_landing_high.jpg) |
+| Left front landing | Landing from above |
+| [![Left side guard](images/r41/R41_Base_Camo_guard_left.jpg)](images/r41/R41_Base_Camo_guard_left.jpg) | [![Right guard and steps · Camo](images/r41/R41_Base_Camo_guard_right.jpg)](images/r41/R41_Base_Camo_guard_right.jpg) |
+| Left side guard | Right guard and steps · Camo |
+| [![Base guard and steps · Charcoal](images/r41/R41_Base_Charcoal_guard_right.jpg)](images/r41/R41_Base_Charcoal_guard_right.jpg) | [![Equipped guard and steps · Charcoal](images/r41/R41_Equipped_Charcoal_guard_right.jpg)](images/r41/R41_Equipped_Charcoal_guard_right.jpg) |
+| Base guard and steps · Charcoal | Equipped guard and steps · Charcoal |
+| [![Equipped rear deck · Camo](images/r41/R41_Equipped_Camo_deck_rear.jpg)](images/r41/R41_Equipped_Camo_deck_rear.jpg) | [![Equipped rear deck · Charcoal](images/r41/R41_Equipped_Charcoal_deck_rear.jpg)](images/r41/R41_Equipped_Charcoal_deck_rear.jpg) |
+| Equipped rear deck · Camo | Equipped rear deck · Charcoal |
 
 ## Explore the model
 
 - [Full R41 gallery](galleries/R41.md) — all 15 model renders, including the driver’s visor, deck, turret landings, side guards and steps.
-- [Revision history](HISTORY.md) — R41 changes and earlier galleries, including the R38 turntable.
+- [Revision history](HISTORY.md) — R41 changes and earlier galleries with the historical R38 and R33 turntables.
 - [Rights and attribution](RIGHTS.md).
