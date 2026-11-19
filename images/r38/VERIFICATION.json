@@ -1,0 +1,41 @@
+{
+  "result": "PASS",
+  "source_revision": "R38 accepted exterior",
+  "source_sha256": "0ad178008fa6608aa5a978e93e117279a6cd2fdc556465c8626ca5556a6c2f09",
+  "source_bytes": 789453591,
+  "matched_painted_pairs": 3,
+  "neutral_overviews": 2,
+  "still_pixels": [
+    1600,
+    1100
+  ],
+  "camera_lighting_exposure_matched_within_finish_pairs": true,
+  "mp4": {
+    "codec": "H.264",
+    "pixels": [
+      960,
+      660
+    ],
+    "frames": 96,
+    "fps": 24,
+    "seconds": 4
+  },
+  "gif": {
+    "pixels": [
+      800,
+      550
+    ],
+    "frames": 48,
+    "seconds": 4
+  },
+  "turntable_rendered_frames": 96,
+  "all_orbit_frames_inside_image": true,
+  "all_published_media_hashes_match_manifest": true,
+  "jpeg_exif_or_local_paths": false,
+  "master_and_named_working_copy_byte_unchanged": true,
+  "r33_archive_readme_byte_identical": true,
+  "rights_and_attribution_unchanged": true,
+  "earlier_gallery_assets_unchanged": true,
+  "private_photo_workbook_or_blender_payload_in_public_changes": false,
+  "verification_scope": "Local prepared repository and media; no publication or remote access check claimed."
+}
