@@ -10,6 +10,10 @@ The clean configuration has the removable stowage boxes and roof beacon off.
 
 **[Base model and private Blender download](models/R41-Base.md)** · [Full Base gallery](galleries/R41.md#base)
 
+![R41 Base Camo · 360-degree turntable](images/r41/base-camo-turntable.gif)
+
+**Watch MP4:** [Camo](images/r41/base-camo-turntable.mp4) · [Charcoal](images/r41/base-charcoal-turntable.mp4) · [Both animated finishes](galleries/R41.md#base-turntables)
+
 ## R41 Equipped
 
 The equipped configuration adds the removable roof and rear stowage boxes and the amber roof beacon.
@@ -19,6 +23,10 @@ The equipped configuration adds the removable roof and rear stowage boxes and th
 | [![Gepard 1A2 R41 Equipped · Camo overview](images/r41/R41_Equipped_Camo_overall.jpg)](images/r41/R41_Equipped_Camo_overall.jpg) | [![Gepard 1A2 R41 Equipped · Charcoal overview](images/r41/R41_Equipped_Charcoal_overall.jpg)](images/r41/R41_Equipped_Charcoal_overall.jpg) |
 
 **[Equipped model and private Blender download](models/R41-Equipped.md)** · [Full Equipped gallery](galleries/R41.md#equipped)
+
+![R41 Equipped Camo · 360-degree turntable](images/r41/equipped-camo-turntable.gif)
+
+**Watch MP4:** [Camo](images/r41/equipped-camo-turntable.mp4) · [Charcoal](images/r41/equipped-charcoal-turntable.mp4) · [Both animated finishes](galleries/R41.md#equipped-turntables)
 
 ## R41 detail gallery
 
@@ -39,6 +47,6 @@ The equipped configuration adds the removable roof and rear stowage boxes and th
 
 ## Explore the model
 
-- [Full R41 gallery](galleries/R41.md) — all 15 model renders, including the driver’s visor, deck, turret landings, side guards and steps.
+- [Full R41 gallery](galleries/R41.md) — all 15 stills and turntables in both finishes.
 - [Revision history](HISTORY.md) — R41 changes and earlier galleries with the historical R38 and R33 turntables.
 - [Rights and attribution](RIGHTS.md).

@@ -10,6 +10,8 @@ R41 seats the driver’s visor handle against its mounts, restores the broad fol
 
 [R41 gallery](galleries/R41.md) · [Base model](models/R41-Base.md) · [Equipped model](models/R41-Equipped.md) · [Rendering and verification notes](images/r41/RENDERING.md)
 
+R41 also has fresh six-second Base and Equipped turntables in Camo and Charcoal, alongside all 15 supplied still renders. [View the current showcase](README.md).
+
 ## Earlier checkpoints
 
 These galleries retain their original revision labels and media.
