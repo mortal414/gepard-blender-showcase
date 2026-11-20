@@ -25,8 +25,8 @@ Roof boxes, rear stowage and the amber roof beacon are fitted.
 | View | View |
 | --- | --- |
 | [![Left gun arm · Camo](images/r42/R42_Base_Camo_arm_left.jpg)](images/r42/R42_Base_Camo_arm_left.jpg) | [![Right gun arm · Camo](images/r42/R42_Base_Camo_arm_right.jpg)](images/r42/R42_Base_Camo_arm_right.jpg) |
-| [![Turret roof · Camo](images/r42/R42_Base_Camo_roof.jpg)](images/r42/R42_Base_Camo_roof.jpg) | [![Driver’s visor · saved pose · Camo](images/r42/R42_Base_Camo_hatch_closed.jpg)](images/r42/R42_Base_Camo_hatch_closed.jpg) |
-| [![Outer locker · Camo](images/r42/R42_Base_Camo_locker_outer.jpg)](images/r42/R42_Base_Camo_locker_outer.jpg) | [![Right rear lamp support · Camo](images/r42/R42_Base_Camo_lamp_underside_right.jpg)](images/r42/R42_Base_Camo_lamp_underside_right.jpg) |
+| [![Right rear light underside · Camo](images/r42/R42_Base_Camo_lamp_underside_right.jpg)](images/r42/R42_Base_Camo_lamp_underside_right.jpg) | [![Driver’s hatch · Camo](images/r42/R42_Base_Camo_hatch_closed.jpg)](images/r42/R42_Base_Camo_hatch_closed.jpg) |
+| [![Turret roof · Camo](images/r42/R42_Base_Camo_roof.jpg)](images/r42/R42_Base_Camo_roof.jpg) | [![Outer locker · Camo](images/r42/R42_Base_Camo_locker_outer.jpg)](images/r42/R42_Base_Camo_locker_outer.jpg) |
 | [![Front fender · Camo](images/r42/R42_Base_Camo_fender.jpg)](images/r42/R42_Base_Camo_fender.jpg) | [![Road wheels · Camo](images/r42/R42_Base_Camo_wheel.jpg)](images/r42/R42_Base_Camo_wheel.jpg) |
 
 
