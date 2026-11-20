@@ -1,0 +1,30 @@
+{
+  "revision": "R42",
+  "result": "PASS",
+  "publication_commit": "dee3048e7b8aacb89fd398d5f72ccfa34c2650c2",
+  "method": "After publication, open each published model link, download its eight source parts and restore records, and run the supplied Python restore helper into a separate folder.",
+  "models": {
+    "Base": {
+      "model_filename": "Gepard_R42_Base_Exterior_20261119.blend",
+      "model_bytes": 792853970,
+      "model_sha256": "ac7d8950a395bae59193e1baa0dd0ce4875578bf690f821358eff703d7ce2f42",
+      "folder_url": "https://drive.google.com/drive/folders/1BM6w7VakBBJjE7Ju0B2-FrY0eKipxRSi",
+      "verified_utc": "2026-11-20T14:57:57.774037+00:00",
+      "result": "PASS",
+      "parts_verified": 8,
+      "native_file_resaved": false,
+      "master_preserved": true
+    },
+    "Equipped": {
+      "model_filename": "Gepard_R42_Equipped_Exterior_20261119.blend",
+      "model_bytes": 792857284,
+      "model_sha256": "791d31e3af960622362318aadeb54d78afe37209b6b352be4da6c3d92d37e468",
+      "folder_url": "https://drive.google.com/drive/folders/1XVgSym29PljGPen0_kbojlN_Gu6Ez1E8",
+      "verified_utc": "2026-11-20T15:00:32.353636+00:00",
+      "result": "PASS",
+      "parts_verified": 8,
+      "native_file_resaved": false,
+      "master_preserved": true
+    }
+  }
+}

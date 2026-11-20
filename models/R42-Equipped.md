@@ -12,6 +12,8 @@ Download the eight numbered native-file parts, `MODEL-BACKUP-MANIFEST.json` and 
 - Scenes: `REFINEMENT_Camo`, `REFINEMENT_Charcoal`, `00 Exterior - neutral clay`
 - Native delivery: Blender **4.5.16 LTS**, independent reopen **PASS**, **247 packed images**
 
+Download verification: **PASS** — [post-publication restore receipt](../images/r42/DOWNLOAD-VERIFICATION.json).
+
 Keep the source unchanged and use named copies for edits or export. The native download remains private; the public repository contains model renders and identity records.
 
 [R42 Equipped gallery](../galleries/R42.md#equipped) · [Other model](R42-Base.md) · [Overview](../README.md) · [Rights and attribution](../RIGHTS.md)

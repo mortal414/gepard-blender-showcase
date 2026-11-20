@@ -9,3 +9,5 @@ Base leads with its Camo overview. Equipped leads with the Camo and Charcoal ove
 The turntables linked from the overview retain their R41 labels and belong to the earlier checkpoint. The R41 gallery, all previous media and RIGHTS.md attribution are preserved.
 
 [Image checksums and model identities](manifest.json) · [Base download details](../../models/R42-Base.md) · [Equipped download details](../../models/R42-Equipped.md) · [Rights and attribution](../../RIGHTS.md)
+
+[Post-publication Blender download verification](DOWNLOAD-VERIFICATION.json): both published private links were followed, all eight parts per model were downloaded and checked, and the supplied helper restored the exact delivery bytes and SHA-256 in a separate folder. Both original masters retain their hashes.
