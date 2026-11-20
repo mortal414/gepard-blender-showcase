@@ -12,6 +12,6 @@ The private download contains numbered native-file parts, a manifest and restore
 - Scenes: `REFINEMENT_Camo`, `REFINEMENT_Charcoal`, `00 Exterior - neutral clay`
 - Native verification: Blender **4.5.16 LTS**, independent reopen PASS, **247 packed images**
 
-[R41 revision notes](../HISTORY.md#r41--current-showcase)
+[R41 revision notes](../HISTORY.md#r41)
 
 [R41 Base gallery](../galleries/R41.md#base) · [Model overview](../README.md) · [Other model: R41 Equipped](R41-Equipped.md) · [Rights and attribution](../RIGHTS.md)

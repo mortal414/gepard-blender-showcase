@@ -8,7 +8,7 @@ The supplied images are 1040 × 700, rendered in Blender 4.5.16 LTS with Cycles,
 
 Base is the default, with `R41_Base_Camo_overall.jpg` as the cover. Equipped leads with the Camo and Charcoal overviews side by side. Each variant has a separate private Blender download and includes Camo, Charcoal and neutral clay. Native receipts record independent reopen PASS, all 247 images packed and 16 equipment-state checks per scene.
 
-[R41 revision notes](../../HISTORY.md#r41--current-showcase)
+[R41 revision notes](../../HISTORY.md#r41)
 
 The R39 gallery is preserved unchanged in [R39-ARCHIVE.md](../../R39-ARCHIVE.md). R38, R33 and Detail10 media and galleries remain intact, including the historical turntables. [RIGHTS.md and attribution](../../RIGHTS.md) are unchanged. This update concerns the Blender showcase; the Reforger port remains a separate task.
 
