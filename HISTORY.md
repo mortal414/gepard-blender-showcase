@@ -1,8 +1,16 @@
 # Showcase history
 
-[Current model overview](README.md) · [Full R42 gallery](galleries/R42.md) · [Rights and attribution](RIGHTS.md)
+[Current model overview](README.md) · [Full R47 gallery](galleries/R47.md) · [Rights and attribution](RIGHTS.md)
 
-## R42 · current showcase
+## R47 · current showcase
+
+Base is the default clean model; Equipped adds optional roof boxes, rear stowage and the beacon. The gallery uses eight supplied model-only PNGs per version, including exterior and interior views. Both reviewed source files retain Camo, Charcoal and neutral clay scenes with all 248 images packed.
+
+R47 fixes the driver’s cabin lining, four crew-ceiling fasteners, two roof-edge intersections and a fold in the right front fender.
+
+[R47 gallery](galleries/R47.md) · [Base model](models/R47-Base.md) · [Equipped model](models/R47-Equipped.md) · [Rendering notes](images/r47/RENDERING.md)
+
+## R42
 
 Base remains the default clean configuration; Equipped adds roof boxes, rear stowage and the beacon. The verified delivery contains both finishes and neutral clay, with 247 packed images in each native file.
 
@@ -26,6 +34,7 @@ These galleries retain their original revision labels and media.
 
 | Revision | Gallery |
 | --- | --- |
+| R42 | [R42 overview archive](R42-ARCHIVE.md) |
 | R39 | [Base and Equipped galleries](R39-ARCHIVE.md) |
 | R38 | [Accepted exterior gallery and turntable](R38-ARCHIVE.md) |
 | R33 | [Earlier accepted baseline gallery](R33-ARCHIVE.md) |

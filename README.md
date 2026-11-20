@@ -1,36 +1,37 @@
 # Gepard 1A2
 
-A Blender showcase of the Gepard 1A2 exterior in Camo and Charcoal. **R42** is the current showcase revision, with Base and Equipped configurations. Both models also include a neutral clay scene.
+The **R47** reviewed Blender model, shown in the supplied Camo and Charcoal renders with exterior and interior views. Base is the default configuration; Equipped adds the optional stowage and beacon. Both native files also include Charcoal and neutral clay scenes.
 
-## R42 Base · default
+## R47 Base · default
 
-[![Gepard 1A2 R42 Base · Camo overview](images/r42/R42_Base_Camo_overall.jpg)](images/r42/R42_Base_Camo_overall.jpg)
+[![R47 Base · Front three-quarter](images/r47/base-front.png)](images/r47/base-front.png)
 
-The clean configuration has the removable boxes and roof beacon off.
+The clean configuration has the removable stowage boxes and roof beacon off.
 
-**[Base model and private Blender download](models/R42-Base.md)** · [Full Base gallery](galleries/R42.md#base)
+**[Base model and private Blender download](models/R47-Base.md)** · [Base gallery](galleries/R47.md#base)
 
-## R42 Equipped
+## R47 Equipped
 
-Roof boxes, rear stowage and the amber roof beacon are fitted.
+[![R47 Equipped · Rear three-quarter](images/r47/equipped-rear.png)](images/r47/equipped-rear.png)
 
-| Camo | Charcoal |
+The optional configuration has the roof boxes, rear stowage and amber roof beacon fitted. The rear view shows the stowage layout.
+
+**[Equipped model and private Blender download](models/R47-Equipped.md)** · [Equipped gallery](galleries/R47.md#equipped)
+
+## Model gallery · R47
+
+| Base | Equipped |
 | --- | --- |
-| [![R42 Equipped · Camo overview](images/r42/R42_Equipped_Camo_overall.jpg)](images/r42/R42_Equipped_Camo_overall.jpg) | [![R42 Equipped · Charcoal overview](images/r42/R42_Equipped_Charcoal_overall.jpg)](images/r42/R42_Equipped_Charcoal_overall.jpg) |
-
-**[Equipped model and private Blender download](models/R42-Equipped.md)** · [Full Equipped gallery](galleries/R42.md#equipped)
-
-## Exterior details · R42
-
-| View | View |
-| --- | --- |
-| [![Left gun arm · Camo](images/r42/R42_Base_Camo_arm_left.jpg)](images/r42/R42_Base_Camo_arm_left.jpg) | [![Right gun arm · Camo](images/r42/R42_Base_Camo_arm_right.jpg)](images/r42/R42_Base_Camo_arm_right.jpg) |
-| [![Right rear light underside · Camo](images/r42/R42_Base_Camo_lamp_underside_right.jpg)](images/r42/R42_Base_Camo_lamp_underside_right.jpg) | [![Driver’s hatch · Camo](images/r42/R42_Base_Camo_hatch_closed.jpg)](images/r42/R42_Base_Camo_hatch_closed.jpg) |
-| [![Turret roof · Camo](images/r42/R42_Base_Camo_roof.jpg)](images/r42/R42_Base_Camo_roof.jpg) | [![Outer locker · Camo](images/r42/R42_Base_Camo_locker_outer.jpg)](images/r42/R42_Base_Camo_locker_outer.jpg) |
-| [![Front fender · Camo](images/r42/R42_Base_Camo_fender.jpg)](images/r42/R42_Base_Camo_fender.jpg) | [![Road wheels · Camo](images/r42/R42_Base_Camo_wheel.jpg)](images/r42/R42_Base_Camo_wheel.jpg) |
+| [![R47 Base · Rear three-quarter](images/r47/base-rear.png)](images/r47/base-rear.png) | [![R47 Equipped · Front three-quarter](images/r47/equipped-front.png)](images/r47/equipped-front.png) |
+| [![R47 Base · Roof](images/r47/base-roof.png)](images/r47/base-roof.png) | [![R47 Equipped · Roof](images/r47/equipped-roof.png)](images/r47/equipped-roof.png) |
+| [![R47 Base · Side](images/r47/base-side.png)](images/r47/base-side.png) | [![R47 Equipped · Side](images/r47/equipped-side.png)](images/r47/equipped-side.png) |
+| [![R47 Base · Low front view](images/r47/base-front_low.png)](images/r47/base-front_low.png) | [![R47 Equipped · Low front view](images/r47/equipped-front_low.png)](images/r47/equipped-front_low.png) |
+| [![R47 Base · Driver’s cabin](images/r47/base-driver.png)](images/r47/base-driver.png) | [![R47 Equipped · Driver’s cabin](images/r47/equipped-driver.png)](images/r47/equipped-driver.png) |
+| [![R47 Base · Crew ceiling and interior](images/r47/base-crew.png)](images/r47/base-crew.png) | [![R47 Equipped · Crew ceiling and interior](images/r47/equipped-crew.png)](images/r47/equipped-crew.png) |
+| [![R47 Base · Open hatches](images/r47/base-hatches.png)](images/r47/base-hatches.png) | [![R47 Equipped · Open hatches](images/r47/equipped-hatches.png)](images/r47/equipped-hatches.png) |
 
 
-[View all 33 R42 renders](galleries/R42.md), including both finishes and the driver’s visor opening preview.
+[All 16 R47 renders](galleries/R47.md) · [R47 revision notes](HISTORY.md#r47--current-showcase) · [Rendering provenance and checksums](images/r47/RENDERING.md)
 
 ## Earlier turntables · R41
 
@@ -38,6 +39,6 @@ Roof boxes, rear stowage and the amber roof beacon are fitted.
 | --- | --- |
 | ![R41 Base Camo turntable](images/r41/base-camo-turntable.gif) | ![R41 Equipped Camo turntable](images/r41/equipped-camo-turntable.gif) |
 
-[R41 turntables in Camo and Charcoal, with MP4 downloads](galleries/R41.md) · [R41 overview archive](R41-ARCHIVE.md)
+[R41 turntables in both finishes and MP4 downloads](galleries/R41.md) · [R42 gallery](galleries/R42.md)
 
-[Revision history](HISTORY.md) · [R42 rendering notes and checksums](images/r42/RENDERING.md) · [Rights and attribution](RIGHTS.md)
+[Revision history](HISTORY.md) · [Rights and attribution](RIGHTS.md)

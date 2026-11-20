@@ -1,0 +1,574 @@
+{
+  "revision": "R47",
+  "default_variant": "Base",
+  "base_lead": "base-front.png",
+  "equipped_lead": "equipped-rear.png",
+  "render_counts": {
+    "Base": 8,
+    "Equipped": 8
+  },
+  "models": {
+    "Base": {
+      "filename": "Gepard_R47_Base_Reviewed_20261120.blend",
+      "bytes": 801895167,
+      "sha256": "714e69882886b65b3ebfb541294b856cd9d659880a89fc5045ed4acfcc20b4dc",
+      "packed_images": 248,
+      "parent_sha256": "d5499987a90e9950dd877ef781252097a5327657c577658df5970127385021c0",
+      "folder_url": "https://drive.google.com/drive/folders/1D1JvTkk1-8pkjdRtEd-ShTaWx-dZgLU6"
+    },
+    "Equipped": {
+      "filename": "Gepard_R47_Equipped_Reviewed_20261120.blend",
+      "bytes": 801936752,
+      "sha256": "1b86c74235c629b3aab3e97a064008e4570570363ee0d20bf8a8744a40ab0df1",
+      "packed_images": 248,
+      "parent_sha256": "22d4bc324c2d51159e4318d5cdda7eb5e17e6e49d00b062b79b9b2ef86ecbd02",
+      "folder_url": "https://drive.google.com/drive/folders/1ypwAb_H17R22Fn3cYO9_en6tSPSn1ytw"
+    }
+  },
+  "files": [
+    {
+      "path": "base-crew.png",
+      "variant": "Base",
+      "view": "crew",
+      "finish": "Camo",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1263560,
+      "sha256": "96bfa8a3763b311b97288154721a1b9f2ca42a2f5ec56f19886301534af41334",
+      "source_render_sha256": "75c989a20c5315a63b74e2d21caeb96138a66e994dc2476ff4a0653c726f8515",
+      "source_model_sha256": "714e69882886b65b3ebfb541294b856cd9d659880a89fc5045ed4acfcc20b4dc",
+      "pose": "open",
+      "projection": "ORTHO",
+      "eye": [
+        -0.13,
+        0.25,
+        3.6
+      ],
+      "target": [
+        0.07,
+        0.96,
+        2.07
+      ],
+      "width": 1.25,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "base-driver.png",
+      "variant": "Base",
+      "view": "driver",
+      "finish": "Camo",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1134744,
+      "sha256": "28c9d87c30f62620e87df2fffc3cac2d69f6b4c7e6ce96b1aac147c3eb36cf60",
+      "source_render_sha256": "99a0371c9bdefd434134aa23fdcf4e17bfe7eb32387833f911b0288fb78410f2",
+      "source_model_sha256": "714e69882886b65b3ebfb541294b856cd9d659880a89fc5045ed4acfcc20b4dc",
+      "pose": "open",
+      "projection": "ORTHO",
+      "eye": [
+        0.53,
+        2.43,
+        2.24
+      ],
+      "target": [
+        0.84,
+        2.02,
+        1.31
+      ],
+      "width": 1.22,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "base-front.png",
+      "variant": "Base",
+      "view": "front",
+      "finish": "Camo",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1074632,
+      "sha256": "91f4b0ad1255c7cd3bb209f7fb46775ce7bd990ceea1838ef5948db8009a009e",
+      "source_render_sha256": "6abb8226038b409a9fb6d3058dcda2c8bbe639d1922258b146a5a7ff32ae0ef4",
+      "source_model_sha256": "714e69882886b65b3ebfb541294b856cd9d659880a89fc5045ed4acfcc20b4dc",
+      "pose": "outside",
+      "projection": "ORTHO",
+      "eye": [
+        -7.7,
+        10.2,
+        5.35
+      ],
+      "target": [
+        0.0,
+        0.04,
+        2.0
+      ],
+      "width": 10.85,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "base-front_low.png",
+      "variant": "Base",
+      "view": "front_low",
+      "finish": "Camo",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1063694,
+      "sha256": "133ec7a71de830c4d75f7afcf481fd8e003ef55257b8f9edabaa9894335c0172",
+      "source_render_sha256": "128b29fed3e0465cdfa3182719aab97809ed6219482e936294d708ec0eae7432",
+      "source_model_sha256": "714e69882886b65b3ebfb541294b856cd9d659880a89fc5045ed4acfcc20b4dc",
+      "pose": "outside",
+      "projection": "ORTHO",
+      "eye": [
+        3.45,
+        9.46,
+        1.65
+      ],
+      "target": [
+        0,
+        0.16,
+        1.53
+      ],
+      "width": 8.8,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "base-hatches.png",
+      "variant": "Base",
+      "view": "hatches",
+      "finish": "Camo",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1392585,
+      "sha256": "e498ce87073a3d6dbd0130d3a5e535a48e483dad8218967adc9bba5f86441853",
+      "source_render_sha256": "85710a376c7e0a27b5cd32085e42585d4975a33854ce6bf8fb67ccb780098631",
+      "source_model_sha256": "714e69882886b65b3ebfb541294b856cd9d659880a89fc5045ed4acfcc20b4dc",
+      "pose": "open",
+      "projection": "ORTHO",
+      "eye": [
+        2.29,
+        2.78,
+        6.95
+      ],
+      "target": [
+        0.21,
+        1.23,
+        2.28
+      ],
+      "width": 4.6,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "base-rear.png",
+      "variant": "Base",
+      "view": "rear",
+      "finish": "Camo",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1078602,
+      "sha256": "325631fb6fada4b4d7b7711e2b41199ab430d28e191d819b974a885d5dfb872c",
+      "source_render_sha256": "8745dcc4f24ddc36a0c7e2418b6109a8c3c623ce73dd86a59110030a80b4034c",
+      "source_model_sha256": "714e69882886b65b3ebfb541294b856cd9d659880a89fc5045ed4acfcc20b4dc",
+      "pose": "outside",
+      "projection": "ORTHO",
+      "eye": [
+        8.6,
+        -10.7,
+        5.25
+      ],
+      "target": [
+        0,
+        0.03,
+        1.98
+      ],
+      "width": 10.9,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "base-roof.png",
+      "variant": "Base",
+      "view": "roof",
+      "finish": "Camo",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1118050,
+      "sha256": "26c5e97332f0963bdf6a14b75e045865bae6f3985a1f2f46dc2ff1a451a9d4c4",
+      "source_render_sha256": "c436025b8c27567efc44fce2ac9a08cea79eed13746e18c11327eb9a0615a39b",
+      "source_model_sha256": "714e69882886b65b3ebfb541294b856cd9d659880a89fc5045ed4acfcc20b4dc",
+      "pose": "outside",
+      "projection": "ORTHO",
+      "eye": [
+        -0.29,
+        0.53,
+        10.05
+      ],
+      "target": [
+        0,
+        0.17,
+        1.9
+      ],
+      "width": 11.5,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "base-side.png",
+      "variant": "Base",
+      "view": "side",
+      "finish": "Camo",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1017735,
+      "sha256": "2fadb0e0d919bf2b17e1448712876ec9d3ae45bcecc9d58385a785740a45335b",
+      "source_render_sha256": "e480bb3ec484039d24e45f2dcf41fcd8c401669dd1b4e3074398a5f2b915b445",
+      "source_model_sha256": "714e69882886b65b3ebfb541294b856cd9d659880a89fc5045ed4acfcc20b4dc",
+      "pose": "outside",
+      "projection": "ORTHO",
+      "eye": [
+        -9.3,
+        -1.69,
+        2.5
+      ],
+      "target": [
+        0,
+        0.32,
+        2.05
+      ],
+      "width": 10.95,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "equipped-crew.png",
+      "variant": "Equipped",
+      "view": "crew",
+      "finish": "Charcoal",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1165629,
+      "sha256": "1129f1376a9375194f3c29c208090b23543a1788e73d2af0b01b608a8aeabd8a",
+      "source_render_sha256": "923342e7dfe996b8e5042226911063fb0a3ddca4381d86378b1878e5c82ec882",
+      "source_model_sha256": "1b86c74235c629b3aab3e97a064008e4570570363ee0d20bf8a8744a40ab0df1",
+      "pose": "driver open; crew hatch closed with roof boxes installed",
+      "projection": "PERSP",
+      "eye": [
+        0.11,
+        0.46,
+        2.57
+      ],
+      "target": [
+        -0.33,
+        1.22,
+        2.41
+      ],
+      "width": 1.25,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "equipped-driver.png",
+      "variant": "Equipped",
+      "view": "driver",
+      "finish": "Charcoal",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1128512,
+      "sha256": "211b58dbfa9ee38d46d502f95213a9aa882ac9de02d1c349826f1c3a4e00fbb0",
+      "source_render_sha256": "ab10ecb3246d72b1318893324c2b6870c2a2d8eaa2810a69187bdff371d93858",
+      "source_model_sha256": "1b86c74235c629b3aab3e97a064008e4570570363ee0d20bf8a8744a40ab0df1",
+      "pose": "driver open; crew hatch closed with roof boxes installed",
+      "projection": "ORTHO",
+      "eye": [
+        0.53,
+        2.43,
+        2.24
+      ],
+      "target": [
+        0.84,
+        2.02,
+        1.31
+      ],
+      "width": 1.22,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "equipped-front.png",
+      "variant": "Equipped",
+      "view": "front",
+      "finish": "Charcoal",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1070621,
+      "sha256": "e1510696706da097c221133b586c6010fae0bfa39b3f9450f9eb1665f15a323f",
+      "source_render_sha256": "e20851dd3c3f30bbbc8b6da8446a0c37d4aea8be11cfe5b498a0c7cff547b9ec",
+      "source_model_sha256": "1b86c74235c629b3aab3e97a064008e4570570363ee0d20bf8a8744a40ab0df1",
+      "pose": "outside",
+      "projection": "ORTHO",
+      "eye": [
+        -7.7,
+        10.2,
+        5.35
+      ],
+      "target": [
+        0.0,
+        0.04,
+        2.0
+      ],
+      "width": 10.85,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "equipped-front_low.png",
+      "variant": "Equipped",
+      "view": "front_low",
+      "finish": "Charcoal",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1021411,
+      "sha256": "da7851f4b93f9e1d4d3aad46a8d24448262002d51f3677a203e59105d8eae342",
+      "source_render_sha256": "012424c0dc6fa4267ac617f19daec59ebd63f52a99d4893c977fec214f82af7d",
+      "source_model_sha256": "1b86c74235c629b3aab3e97a064008e4570570363ee0d20bf8a8744a40ab0df1",
+      "pose": "outside",
+      "projection": "ORTHO",
+      "eye": [
+        3.45,
+        9.46,
+        1.65
+      ],
+      "target": [
+        0,
+        0.16,
+        1.53
+      ],
+      "width": 8.8,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "equipped-hatches.png",
+      "variant": "Equipped",
+      "view": "hatches",
+      "finish": "Charcoal",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1309409,
+      "sha256": "109cb01d2f183fb544ddc6b860331ddb4b3c4f2c4ea7892379456da6b402283f",
+      "source_render_sha256": "cdfe13f9af8e0cc756a29d2cb03465806ecfbe6df6db1016991eaca73c12bc4c",
+      "source_model_sha256": "1b86c74235c629b3aab3e97a064008e4570570363ee0d20bf8a8744a40ab0df1",
+      "pose": "driver open; crew hatch closed with roof boxes installed",
+      "projection": "ORTHO",
+      "eye": [
+        2.29,
+        2.78,
+        6.95
+      ],
+      "target": [
+        0.21,
+        1.23,
+        2.28
+      ],
+      "width": 4.6,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "equipped-rear.png",
+      "variant": "Equipped",
+      "view": "rear",
+      "finish": "Charcoal",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1048554,
+      "sha256": "128ed4f5fbc5c5d1314d255ca2e75bb11273c0536c49d1ece6490e0837eb564b",
+      "source_render_sha256": "9988e67931d6e09bf7cda789243bb2dce78f36cbebc81e58d6db258dac7ecd82",
+      "source_model_sha256": "1b86c74235c629b3aab3e97a064008e4570570363ee0d20bf8a8744a40ab0df1",
+      "pose": "outside",
+      "projection": "ORTHO",
+      "eye": [
+        8.6,
+        -10.7,
+        5.25
+      ],
+      "target": [
+        0,
+        0.03,
+        1.98
+      ],
+      "width": 10.9,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "equipped-roof.png",
+      "variant": "Equipped",
+      "view": "roof",
+      "finish": "Charcoal",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1079902,
+      "sha256": "7f94b2cad4efc21b4f04a7c51d99c9d528e503b1c71644a094057894e9a51366",
+      "source_render_sha256": "13aca1180589cbfbbd9c42530c2658791c8cc34cd91d5a592a95029cf1fd039b",
+      "source_model_sha256": "1b86c74235c629b3aab3e97a064008e4570570363ee0d20bf8a8744a40ab0df1",
+      "pose": "outside",
+      "projection": "ORTHO",
+      "eye": [
+        -0.29,
+        0.53,
+        10.05
+      ],
+      "target": [
+        0,
+        0.17,
+        1.9
+      ],
+      "width": 11.5,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    },
+    {
+      "path": "equipped-side.png",
+      "variant": "Equipped",
+      "view": "side",
+      "finish": "Charcoal",
+      "pixels": [
+        1184,
+        840
+      ],
+      "bytes": 1043359,
+      "sha256": "d301593e5c794af44744acb36a38101c811fd053678b31b13490e5882cbada2a",
+      "source_render_sha256": "ba49261dbfa794557db7be6f9117720bb948bdd2dd04c7a10c5cc5cff3e878b2",
+      "source_model_sha256": "1b86c74235c629b3aab3e97a064008e4570570363ee0d20bf8a8744a40ab0df1",
+      "pose": "outside",
+      "projection": "ORTHO",
+      "eye": [
+        -9.3,
+        -1.69,
+        2.5
+      ],
+      "target": [
+        0,
+        0.32,
+        2.05
+      ],
+      "width": 10.95,
+      "renderer": "Cycles",
+      "samples": 32,
+      "removed_metadata_chunks": [
+        "eXIf",
+        "tEXt"
+      ],
+      "decoded_rgba_pixels_unchanged": true
+    }
+  ]
+}
