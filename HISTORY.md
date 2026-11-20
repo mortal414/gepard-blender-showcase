@@ -4,6 +4,8 @@
 
 ## R47 · current showcase
 
+R47 is retained as the current reviewed model checkpoint while model work is on hold. The showcase prioritizes exterior and interior geometry and the Base/Equipped configurations. Paint and skins remain provisional.
+
 Base is the default clean model; Equipped adds optional roof boxes, rear stowage and the beacon. The gallery uses eight supplied model-only PNGs per version, including exterior and interior views. Both reviewed source files retain Camo, Charcoal and neutral clay scenes with all 248 images packed.
 
 R47 fixes the driver’s cabin lining, four crew-ceiling fasteners, two roof-edge intersections and a fold in the right front fender.

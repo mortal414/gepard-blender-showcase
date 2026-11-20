@@ -2,6 +2,8 @@
 
 Optional roof boxes, rear stowage and amber roof beacon fitted.
 
+R47 is the current reviewed geometry checkpoint. Paint and skins are provisional. The file includes the exterior, driver’s cabin and crew compartment, with Camo, Charcoal and neutral clay scenes.
+
 **[Download R47 Equipped Blender · private Drive backup](https://drive.google.com/drive/folders/1ypwAb_H17R22Fn3cYO9_en6tSPSn1ytw)**
 
 Download the eight numbered source parts, `MODEL-BACKUP-MANIFEST.json` and `restore_model.py` from the private folder. Run the included helper with Python 3.11 or newer to restore the exact `.blend`; the folder includes instructions and native verification records.
