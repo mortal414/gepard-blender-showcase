@@ -1,0 +1,30 @@
+{
+  "revision": "R47",
+  "result": "PASS",
+  "publication_commit": "4bdc37859b6ee9435f6da723af247cbc0f0335a7",
+  "method": "After publication, follow each published model link, download all eight native parts and restore files, and run the supplied helper into a separate folder.",
+  "models": {
+    "Base": {
+      "model_filename": "Gepard_R47_Base_Reviewed_20261120.blend",
+      "model_bytes": 801895167,
+      "model_sha256": "714e69882886b65b3ebfb541294b856cd9d659880a89fc5045ed4acfcc20b4dc",
+      "folder_url": "https://drive.google.com/drive/folders/1D1JvTkk1-8pkjdRtEd-ShTaWx-dZgLU6",
+      "verified_utc": "2026-11-20T17:25:57.149165+00:00",
+      "result": "PASS",
+      "parts_verified": 8,
+      "native_file_resaved": false,
+      "master_preserved": true
+    },
+    "Equipped": {
+      "model_filename": "Gepard_R47_Equipped_Reviewed_20261120.blend",
+      "model_bytes": 801936752,
+      "model_sha256": "1b86c74235c629b3aab3e97a064008e4570570363ee0d20bf8a8744a40ab0df1",
+      "folder_url": "https://drive.google.com/drive/folders/1ypwAb_H17R22Fn3cYO9_en6tSPSn1ytw",
+      "verified_utc": "2026-11-20T17:27:24.764300+00:00",
+      "result": "PASS",
+      "parts_verified": 8,
+      "native_file_resaved": false,
+      "master_preserved": true
+    }
+  }
+}

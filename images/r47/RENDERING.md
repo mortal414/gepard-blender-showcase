@@ -9,3 +9,5 @@ Base leads with `front.png`; Equipped leads with `rear.png` to show the optional
 The earlier R42 gallery and all earlier media remain intact. Turntables retain their R41 labels. RIGHTS.md and its attribution are unchanged.
 
 [Image checksums and model identities](manifest.json) · [Base download](../../models/R47-Base.md) · [Equipped download](../../models/R47-Equipped.md) · [Rights and attribution](../../RIGHTS.md)
+
+[Post-publication Blender download verification](DOWNLOAD-VERIFICATION.json): both published private links were followed and the supplied helper restored the exact reviewed source sizes and SHA-256 hashes from all eight verified parts. The original masters remain unchanged.

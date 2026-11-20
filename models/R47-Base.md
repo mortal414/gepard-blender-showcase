@@ -13,6 +13,8 @@ Download the eight numbered source parts, `MODEL-BACKUP-MANIFEST.json` and `rest
 - Native review: Blender **4.5.16 LTS**, independent reopen **PASS**, **248 packed images**
 - Parent: `Gepard_R46_Base_Interior_20261120.blend`, SHA-256 `d5499987a90e9950dd877ef781252097a5327657c577658df5970127385021c0`
 
+Download verification: **PASS** — [post-publication restore receipt](../images/r47/DOWNLOAD-VERIFICATION.json).
+
 Keep the source unchanged and use named copies for edits or export. Native Blender files stay private; this repository contains model-only previews and identity records.
 
 [R47 Base gallery](../galleries/R47.md#base) · [Other model](R47-Equipped.md) · [Revision notes](../HISTORY.md#r47--current-showcase) · [Rights and attribution](../RIGHTS.md)
