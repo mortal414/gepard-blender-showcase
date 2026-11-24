@@ -1,0 +1,733 @@
+{
+  "revision": "R57",
+  "render_set": "Whole-model studio, exterior and interior",
+  "default_variant": "Base",
+  "hero": "base-camo-front.jpg",
+  "equipped_hero": "equipped-camo-rear.jpg",
+  "new_native_renders": 22,
+  "models": {
+    "R57Base": {
+      "revision": "R57",
+      "variant": "Base",
+      "role": "current primary",
+      "model_filename": "Gepard_R57_Base_20261124.blend",
+      "model_bytes": 832714291,
+      "model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "packed_images": 260,
+      "folder_url": "https://drive.google.com/drive/folders/1P3qCHZhPv6EIxL1MYpAAF-rBeYsTJnqm",
+      "restore_verified": true,
+      "parts": 9,
+      "verified_utc": "2026-11-24T19:49:35.003835+00:00"
+    },
+    "R57Equipped": {
+      "revision": "R57",
+      "variant": "Equipped",
+      "role": "current companion",
+      "model_filename": "Gepard_R57_Equipped_20261124.blend",
+      "model_bytes": 832778767,
+      "model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "packed_images": 260,
+      "folder_url": "https://drive.google.com/drive/folders/1EhxIITJAPmD3HHVnYISnoblmMjY7dl79",
+      "restore_verified": true,
+      "parts": 9,
+      "verified_utc": "2026-11-24T19:50:55.117616+00:00"
+    }
+  },
+  "files": [
+    {
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "front",
+      "projection": "PERSP",
+      "camera": [
+        -11.543587684631348,
+        12.926209449768066,
+        8.519628524780273
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "base-camo-front.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 325562,
+      "sha256": "5f72c3a17f8d080c7af4857314204eaec79dec3c663120cae62afc98f7f7d2fb",
+      "source_render_sha256": "afbcef2261d0aa14313861fbe87d0b8e5d7fd048f2998ab77f75f813c9653755",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "rear",
+      "projection": "PERSP",
+      "camera": [
+        11.563142776489258,
+        -12.60675048828125,
+        8.71164608001709
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "base-camo-rear.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 330659,
+      "sha256": "c44a70bd9f0138903bc05976841d0a3da64994490106b23c7749016f6dbb8a36",
+      "source_render_sha256": "1eb516918b0c7e6a500db41afc9256a5eb63abde0ffe24e7da379f430a975909",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "side",
+      "projection": "PERSP",
+      "camera": [
+        17.61984634399414,
+        0.10000000149011612,
+        7.4883503913879395
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "base-camo-side.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 335027,
+      "sha256": "f1bcc50b81497805717f4bed6bc27f361d025894334673dc3f6b0950763a2ecf",
+      "source_render_sha256": "5d9d5a1e48d632c716c8c9122af3d07f52366d39807c737803e4026beb2d0169",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "roof",
+      "projection": "ORTHO",
+      "camera": [
+        3.2527687549591064,
+        -4.508089542388916,
+        19.469165802001953
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "base-camo-roof.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 280247,
+      "sha256": "0a8037035d75a36d635b45bf2f3fe0e0918c584eeb938e5dce95502ba9e6634c",
+      "source_render_sha256": "ecb1919201a0a377b3416cda35d3c5234f74a85435c612bf673ce88b66d9e0be",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "open-hatches",
+      "projection": "PERSP",
+      "camera": [
+        -8.048025131225586,
+        12.48157787322998,
+        12.993420600891113
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "hatches open and seats unfolded",
+      "samples": 96,
+      "path": "base-camo-open-hatches.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 336465,
+      "sha256": "57964e03d8c0546854834878d338ef4e2ee3896ea721e40636daf1c6e1f7a346",
+      "source_render_sha256": "aa8caa77d3310c488fb6439dcb4a0e3aa0cbfe03a025cf4805e5e060c926f5d4",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "driver",
+      "projection": "PERSP",
+      "camera": [
+        0.8379999995231628,
+        1.8860000371932983,
+        1.4819999933242798
+      ],
+      "target": [
+        0.63,
+        2.36,
+        1.271
+      ],
+      "lens": 21.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "hatches open and seats unfolded",
+      "samples": 96,
+      "path": "base-camo-driver.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 276815,
+      "sha256": "9be882bb575d3bcf7faab5c864b05d08ac8e4e451bb15d60548cdaf9a6fcc81b",
+      "source_render_sha256": "eab04df88c3f0fd5e26e41c046969942127822f8b44cf5a857f218e2941712bc",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "crew",
+      "projection": "PERSP",
+      "camera": [
+        -0.12999999523162842,
+        0.25,
+        3.5999999046325684
+      ],
+      "target": [
+        0.07,
+        0.96,
+        2.07
+      ],
+      "lens": 32.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "hatches open and seats unfolded",
+      "samples": 96,
+      "path": "base-camo-crew.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 449715,
+      "sha256": "0b92d6f0ef136ab8dabcc6282c0276a58367fbb5a19ccac509e3563de65de1d3",
+      "source_render_sha256": "385651588ec07de504e32215ed4b7848cec7a86be3050bf633d4c43cff4a71fa",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Base",
+      "finish": "Camo",
+      "view": "crew-controls",
+      "projection": "PERSP",
+      "camera": [
+        0.05999999865889549,
+        0.3499999940395355,
+        2.7799999713897705
+      ],
+      "target": [
+        -0.15,
+        1.04,
+        2.38
+      ],
+      "lens": 19.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "hatches open and seats unfolded",
+      "samples": 96,
+      "path": "base-camo-crew-controls.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 404532,
+      "sha256": "b63e0efe10e6fbf669963f9125a48d3e087c9cc454b0dc88fc7dd09ddc895f66",
+      "source_render_sha256": "6df02cfb53f5f6be75f297b3c8e24e6ea4d32166523eee7288aa81eaeb347749",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Base",
+      "finish": "Charcoal",
+      "view": "front",
+      "projection": "PERSP",
+      "camera": [
+        -11.543587684631348,
+        12.926209449768066,
+        8.519628524780273
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "base-charcoal-front.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 313034,
+      "sha256": "ed9d8f08d1fdf9b6ec0afb71ed6c5a059422d5f8d8bf46a58614ff110054dccd",
+      "source_render_sha256": "99a63e0e28c678880eb3fc3d7f014421a4795d92f266d8ca47abf59b1d742330",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Base",
+      "finish": "Charcoal",
+      "view": "rear",
+      "projection": "PERSP",
+      "camera": [
+        11.563142776489258,
+        -12.60675048828125,
+        8.71164608001709
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "base-charcoal-rear.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 317795,
+      "sha256": "21e60373f82fe4a386de8f9f0e5257926e75f26a95ba84c82d6f5530d4ff200d",
+      "source_render_sha256": "ca216ffbb9012302357407118fa9b2f5b0cdd5ad920ab0978f9f234aa499b3cc",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Base",
+      "finish": "Clay",
+      "view": "front",
+      "projection": "PERSP",
+      "camera": [
+        -11.543587684631348,
+        12.926209449768066,
+        8.519628524780273
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "base-clay-front.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 307247,
+      "sha256": "7ad13241ff110c087a8ad53cbaf8c69eb35d748da00d69f10450c6f4cb4fdf74",
+      "source_render_sha256": "b06434d9b6bcedde16580b6dc441ff0ef3995979b581ed12aaef50e138cca2aa",
+      "source_model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "front",
+      "projection": "PERSP",
+      "camera": [
+        -11.543587684631348,
+        12.926209449768066,
+        8.519628524780273
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "equipped-camo-front.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 329001,
+      "sha256": "98423cac49a3180ccaaf6fef8426017ccc9d6a417686781b3b4635a7a0f04d29",
+      "source_render_sha256": "db23f93eef9a5978018cec426dabfbf7a1e7276379fb50ae7bc4f1c61624372b",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "rear",
+      "projection": "PERSP",
+      "camera": [
+        11.563142776489258,
+        -12.60675048828125,
+        8.71164608001709
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "equipped-camo-rear.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 329198,
+      "sha256": "f2920e8fc82e4926a80089e79648e47db2b3821a34aaf854caab818175cbcfde",
+      "source_render_sha256": "53d65c77faa7989d95e67d7c200ed26a76a69c0864b2b84f770cfbc760cb5186",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "side",
+      "projection": "PERSP",
+      "camera": [
+        17.61984634399414,
+        0.10000000149011612,
+        7.4883503913879395
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "equipped-camo-side.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 335956,
+      "sha256": "03d4a364f67d27daffc15b1584bc44f4824fcbbd9dd5936b4cd628ce36960e31",
+      "source_render_sha256": "7da3d923bc6a69cac25df338da645ffb15232e0cb13b606ecfd85fff73ec65f4",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "roof",
+      "projection": "ORTHO",
+      "camera": [
+        3.2527687549591064,
+        -4.508089542388916,
+        19.469165802001953
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "equipped-camo-roof.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 280404,
+      "sha256": "0ba9cc3bbcb7df52788082b430233bdc6063082b622a7be80287ec8c26dbf5bc",
+      "source_render_sha256": "a3f46061c80e1ccc936d3243c27b7157b41fe6e6f1f9ef317fffe50baeed2803",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "open-hatches",
+      "projection": "PERSP",
+      "camera": [
+        -8.048025131225586,
+        12.48157787322998,
+        12.993420600891113
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "hatches open and seats unfolded",
+      "samples": 96,
+      "path": "equipped-camo-open-hatches.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 336029,
+      "sha256": "5b023ce96f59e72c2f59f80a78adb222cd1fdec0378fe2f65fedcb2582721677",
+      "source_render_sha256": "86eaea6569f8bc96710e55d21fe237ace46b4a69c0e8a2c3b9af2184a1a1b9a9",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "driver",
+      "projection": "PERSP",
+      "camera": [
+        0.8379999995231628,
+        1.8860000371932983,
+        1.4819999933242798
+      ],
+      "target": [
+        0.63,
+        2.36,
+        1.271
+      ],
+      "lens": 21.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "hatches open and seats unfolded",
+      "samples": 96,
+      "path": "equipped-camo-driver.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 276954,
+      "sha256": "efa1cbc656d2b4b9d0b13bcfc73fc7342a641b32bce21fb5c5e56374d96d7cf8",
+      "source_render_sha256": "752e36ccb5d2ac436821df3a67722e4e9742cb19e5d2b230cbafe8b510efd131",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "crew",
+      "projection": "PERSP",
+      "camera": [
+        0.10000000149011612,
+        0.6399999856948853,
+        2.7200000286102295
+      ],
+      "target": [
+        -0.05,
+        1.05,
+        1.95
+      ],
+      "lens": 20.0,
+      "ortho_scale": 6.0,
+      "presentation_pose": "hatches open and seats unfolded",
+      "samples": 96,
+      "path": "equipped-camo-crew.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 423421,
+      "sha256": "64655ab1e8ced5c5a70335a0a9507787701632b173ea59ec91a14c2dfc37074f",
+      "source_render_sha256": "80b193a40a84a57208ed9a6e52bb129ad1db176f357e099fb0edcf5e3958c218",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Camo",
+      "view": "crew-controls",
+      "projection": "PERSP",
+      "camera": [
+        0.05999999865889549,
+        0.3499999940395355,
+        2.7799999713897705
+      ],
+      "target": [
+        -0.15,
+        1.04,
+        2.38
+      ],
+      "lens": 19.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "hatches open and seats unfolded",
+      "samples": 96,
+      "path": "equipped-camo-crew-controls.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 405028,
+      "sha256": "4adc7c456d71c1f9a8e9d9f4ebdd78b146ad935cc2e0b5042a08f86f584bf0b8",
+      "source_render_sha256": "485830e257f96d8c39d28477be17ddef0e0c7d4217a1315404e9bbe4c56af668",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Charcoal",
+      "view": "front",
+      "projection": "PERSP",
+      "camera": [
+        -11.543587684631348,
+        12.926209449768066,
+        8.519628524780273
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "equipped-charcoal-front.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 316239,
+      "sha256": "f2d30500099a8288759abfc6a6871fefe71a350e82e62dc3b9bc3827e3d7edfd",
+      "source_render_sha256": "aa3060ece6b57f504c33a379e9489d874891661f9ec5659e7caeb96d6184e044",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Charcoal",
+      "view": "rear",
+      "projection": "PERSP",
+      "camera": [
+        11.563142776489258,
+        -12.60675048828125,
+        8.71164608001709
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "equipped-charcoal-rear.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 317055,
+      "sha256": "142b60c72aa570c27852ee55ddc11a6880a5d2564400f0f05f8fe0c608cfbc18",
+      "source_render_sha256": "6ef8fcc97b445cc23af3c47f75beadb1e4b3c4eae602a8b237edabee113d9715",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "variant": "Equipped",
+      "finish": "Clay",
+      "view": "rear",
+      "projection": "PERSP",
+      "camera": [
+        11.563142776489258,
+        -12.60675048828125,
+        8.71164608001709
+      ],
+      "target": [
+        0,
+        0.1,
+        1.85
+      ],
+      "lens": 60.0,
+      "ortho_scale": 14.399999618530273,
+      "presentation_pose": "saved native pose",
+      "samples": 96,
+      "path": "equipped-clay-rear.jpg",
+      "pixels": [
+        1600,
+        1100
+      ],
+      "bytes": 290635,
+      "sha256": "b1b58bc1f5befa49f3b22c3072df0fc6a0f914945b778dc986533676b1ae691a",
+      "source_render_sha256": "5256e81c1629b5f4e949d571cc7c57acf0d930918a6fb0e633113693b0027d89",
+      "source_model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "decoded_pixels_unchanged": true
+    }
+  ],
+  "supplied_model_only_images": [
+    {
+      "path": "supplied/Gepard_R57_Base.jpg",
+      "pixels": [
+        1700,
+        1050
+      ],
+      "bytes": 341866,
+      "sha256": "3d89b41b122f121f9260fa79d70fc44e078f03259b941f70b0b1f3e8becab17e",
+      "source_render_sha256": "bcb5817323c8330bb2187bc439d1c9578b52b6946afa9d65aa7cb916a1fa2a0c",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "supplied/Gepard_R57_Equipped.jpg",
+      "pixels": [
+        1700,
+        1050
+      ],
+      "bytes": 346336,
+      "sha256": "7993d8871ced65333cdc851da5a79dee856882aad87f41b8612f3697546bf7c7",
+      "source_render_sha256": "9f56e9e34d84a129d872c0f019c58ff9a160719a2a47d708c481e4a36b19942a",
+      "decoded_pixels_unchanged": true
+    },
+    {
+      "path": "supplied/Gepard_R57_Changes.jpg",
+      "pixels": [
+        1774,
+        1238
+      ],
+      "bytes": 397603,
+      "sha256": "1611c49eac473f2ad78d6b858797a48c1d8fda322aebd211bd16712f038a5028",
+      "source_render_sha256": "1611c49eac473f2ad78d6b858797a48c1d8fda322aebd211bd16712f038a5028",
+      "decoded_pixels_unchanged": true
+    }
+  ]
+}

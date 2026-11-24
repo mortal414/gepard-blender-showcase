@@ -1,10 +1,22 @@
 # Showcase history
 
-[Current model overview](README.md) · [Full R47 gallery](galleries/R47.md) · [Rights and attribution](RIGHTS.md)
+[Current model overview](README.md) · [Full R57 gallery](galleries/R57.md) · [Rights and attribution](RIGHTS.md)
 
-## R47 · current showcase
+## R57 · current working version
 
-R47 is retained as the current reviewed model checkpoint while model work is on hold. The showcase prioritizes exterior and interior geometry and the Base/Equipped configurations. Paint and skins remain provisional.
+Base is the primary/default working source; Equipped is its companion with optional stowage and beacon. Both include Camo and Charcoal and have 260 packed images. The new gallery presents the whole model evenly with exterior, driver, crew, alternate-finish and neutral-clay views.
+
+[R57 model gallery](galleries/R57.md) · [Base source](models/R57-Base.md) · [Equipped source](models/R57-Equipped.md) · [Revision-specific detail board](galleries/R57-DETAILS.md)
+
+## R56 · previous working checkpoint
+
+Both R56 source configurations are preserved in the private workflow and freshly restore-verified. Their native hashes match the parent hashes recorded by R57. [R56 source records](models/R56.md).
+
+<a id="r47--current-showcase"></a>
+
+## R47
+
+R47 was retained as the reviewed model checkpoint when model work was put on hold. The showcase prioritizes exterior and interior geometry and the Base/Equipped configurations. Paint and skins remain provisional.
 
 Base is the default clean model; Equipped adds optional roof boxes, rear stowage and the beacon. The gallery uses eight supplied model-only PNGs per version, including exterior and interior views. Both reviewed source files retain Camo, Charcoal and neutral clay scenes with all 248 images packed.
 
@@ -36,6 +48,7 @@ These galleries retain their original revision labels and media.
 
 | Revision | Gallery |
 | --- | --- |
+| R47 | [R47 overview archive](R47-ARCHIVE.md) |
 | R42 | [R42 overview archive](R42-ARCHIVE.md) |
 | R39 | [Base and Equipped galleries](R39-ARCHIVE.md) |
 | R38 | [Accepted exterior gallery and turntable](R38-ARCHIVE.md) |

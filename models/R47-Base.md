@@ -2,7 +2,7 @@
 
 Removable stowage boxes and roof beacon off.
 
-R47 is the current reviewed geometry checkpoint. Paint and skins are provisional. The file includes the exterior, driver’s cabin and crew compartment, with Camo, Charcoal and neutral clay scenes.
+R47 is a previous reviewed geometry checkpoint. Paint and skins are provisional. The file includes the exterior, driver’s cabin and crew compartment, with Camo, Charcoal and neutral clay scenes.
 
 **[Download R47 Base Blender · private Drive backup](https://drive.google.com/drive/folders/1D1JvTkk1-8pkjdRtEd-ShTaWx-dZgLU6)**
 

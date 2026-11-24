@@ -1,0 +1,58 @@
+{
+  "result": "PASS",
+  "method": "Fresh Drive download of each numbered native part and restore helper, followed by exact native-file restoration and SHA-256/size verification.",
+  "sources": {
+    "R57Base": {
+      "revision": "R57",
+      "variant": "Base",
+      "role": "current primary",
+      "model_filename": "Gepard_R57_Base_20261124.blend",
+      "model_bytes": 832714291,
+      "model_sha256": "83b33f900bbd3a3583aaa539b777b2e59e51e0b0ff3df3469d91741fda534aca",
+      "packed_images": 260,
+      "folder_url": "https://drive.google.com/drive/folders/1P3qCHZhPv6EIxL1MYpAAF-rBeYsTJnqm",
+      "restore_verified": true,
+      "parts": 9,
+      "verified_utc": "2026-11-24T19:49:35.003835+00:00"
+    },
+    "R57Equipped": {
+      "revision": "R57",
+      "variant": "Equipped",
+      "role": "current companion",
+      "model_filename": "Gepard_R57_Equipped_20261124.blend",
+      "model_bytes": 832778767,
+      "model_sha256": "1eaada81dd13c661e472c137f77035d701db3b1eca8d013ac91e986e2ccd5edf",
+      "packed_images": 260,
+      "folder_url": "https://drive.google.com/drive/folders/1EhxIITJAPmD3HHVnYISnoblmMjY7dl79",
+      "restore_verified": true,
+      "parts": 9,
+      "verified_utc": "2026-11-24T19:50:55.117616+00:00"
+    },
+    "R56Base": {
+      "revision": "R56",
+      "variant": "Base",
+      "role": "previous checkpoint",
+      "model_filename": "Gepard_R56_Base_20261124.blend",
+      "model_bytes": 828312077,
+      "model_sha256": "48ca0bc10625c1896f90c7c2971186970dfdc4a40df6cd3820781f0d88f26d2a",
+      "packed_images": 256,
+      "folder_url": "https://drive.google.com/drive/folders/1p-bQKDTJPk4oFSO-GcRoWamcErMF5T66",
+      "restore_verified": true,
+      "parts": 9,
+      "verified_utc": "2026-11-24T19:52:40.671799+00:00"
+    },
+    "R56Equipped": {
+      "revision": "R56",
+      "variant": "Equipped",
+      "role": "previous checkpoint",
+      "model_filename": "Gepard_R56_Equipped_20261124.blend",
+      "model_bytes": 828318716,
+      "model_sha256": "cc6e49dca3019bfe459c5ea3ec9b65b7bd331cadb8fe0abf1e71162beb41491d",
+      "packed_images": 256,
+      "folder_url": "https://drive.google.com/drive/folders/12LvOqT0GJfODaLk6NVY_051MuK8LpXyo",
+      "restore_verified": true,
+      "parts": 9,
+      "verified_utc": "2026-11-24T19:54:16.825056+00:00"
+    }
+  }
+}
