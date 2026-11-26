@@ -1,8 +1,18 @@
 # Showcase history
 
-[Current model overview](README.md) · [Full R57 gallery](galleries/R57.md) · [Rights and attribution](RIGHTS.md)
+[Current model overview](README.md) · [Full R62 gallery](galleries/R62.md) · [Rights and attribution](RIGHTS.md)
 
-## R57 · current working version
+## R62 · Current visual showcase
+
+Base and Equipped are shown in matching camouflage views, with close-ups of the road-lamp glass, mudguard, rear splash panel and Equipped roof cases. The new turntable shows Equipped.
+
+[R62 exterior gallery](galleries/R62.md) · [Equipped turntable](galleries/R62.md#equipped-turntable)
+
+<a id="r57--current-working-version"></a>
+
+## R57
+
+[Archived R57 overview](https://github.com/mortal414/gepard-blender-showcase/blob/6ca17421293470e3a1d5e5ab45517115e4410af0/README.md)
 
 Base is the primary/default working source; Equipped is its companion with optional stowage and beacon. Both include Camo and Charcoal and have 260 packed images. The new gallery presents the whole model evenly with exterior, driver, crew, alternate-finish and neutral-clay views.
 

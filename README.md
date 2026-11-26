@@ -1,64 +1,27 @@
-# Gepard 1A2
+# Gepard 1A2 · R62
 
-A Blender model of the Gepard 1A2, with exterior, driver’s station and crew-compartment views. **R57 is the current working version. Base is the default model; Equipped adds the optional stowage and beacon.** Paint and skins remain provisional.
+A Blender exterior study in three-color camouflage. **Base** has a clear rear deck. **Equipped** carries two roof cases, a rear stowage chest and an amber beacon.
 
-[Exterior](#exterior) · [Interior](#interior) · [Neutral geometry](#neutral-geometry) · [Full gallery](galleries/R57.md) · [Previous R56 checkpoint](models/R56.md)
+**[View the R62 gallery and turntable](galleries/R62.md)**
 
-## Base · default
+<a id="exterior"></a>
+<a id="base--default"></a>
 
-[![R57 Base · Front three-quarter · Camo](images/r57/base-camo-front.jpg)](images/r57/base-camo-front.jpg)
+[![R62 Base in camouflage, seen from the front quarter](images/r62/base-front.jpg)](images/r62/base-front.jpg?raw=true)
 
-The clean configuration omits the removable stowage boxes and roof beacon.
+<a id="equipped--optional-stowage"></a>
 
-**[Base model and private Blender source](models/R57-Base.md)** · [Base gallery](galleries/R57.md#base)
-
-## Equipped · optional stowage
-
-[![R57 Equipped · Rear three-quarter · Camo](images/r57/equipped-camo-rear.jpg)](images/r57/equipped-camo-rear.jpg)
-
-Roof boxes, rear stowage and the roof beacon are fitted. The native file contains both Camo and Charcoal, as does Base.
-
-**[Equipped model and private Blender source](models/R57-Equipped.md)** · [Equipped gallery](galleries/R57.md#equipped)
-
-## Exterior
-
-| Base | Equipped |
+| Base · rear quarter | Equipped · rear quarter |
 | --- | --- |
-| [![R57 Base · Side profile · Camo](images/r57/base-camo-side.jpg)](images/r57/base-camo-side.jpg) | [![R57 Equipped · Side profile · Camo](images/r57/equipped-camo-side.jpg)](images/r57/equipped-camo-side.jpg) |
-| [![R57 Base · Roof and deck layout · Camo](images/r57/base-camo-roof.jpg)](images/r57/base-camo-roof.jpg) | [![R57 Equipped · Roof and deck layout · Camo](images/r57/equipped-camo-roof.jpg)](images/r57/equipped-camo-roof.jpg) |
+| [![R62 Base with its rear deck clear](images/r62/base-rear.jpg)](images/r62/base-rear.jpg?raw=true) | [![R62 Equipped with the roof cases and rear stowage chest](images/r62/equipped-rear.jpg)](images/r62/equipped-rear.jpg?raw=true) |
 
+In the close-ups, light catches the fluted road-lamp glass, the rolled edge of the front mudguard and the shallow fold across the rear splash panel. [See the exterior details](galleries/R62.md#exterior-details).
 
-Matching studio views show the hull, running gear, turret, gun assemblies, radar and equipment layout. [More exterior angles and both painted finishes](galleries/R57.md).
+<a id="interior"></a>
+<a id="drivers-station"></a>
+<a id="crew-compartment"></a>
+<a id="seating-and-controls"></a>
+<a id="neutral-geometry"></a>
+<a id="model-records-and-earlier-work"></a>
 
-## Interior
-
-### Driver’s station
-
-[![R57 Base · Driver’s station · Camo](images/r57/base-camo-driver.jpg)](images/r57/base-camo-driver.jpg)
-
-### Crew compartment
-
-[![R57 Base · Crew compartment · Camo](images/r57/base-camo-crew.jpg)](images/r57/base-camo-crew.jpg)
-
-### Seating and controls
-
-[![R57 Equipped · Crew seating and controls · Camo](images/r57/equipped-camo-crew-controls.jpg)](images/r57/equipped-camo-crew-controls.jpg)
-
-Interior views show the hatches open and seats unfolded. [Both configurations and the complete interior set](galleries/R57.md).
-
-## Neutral geometry
-
-| Base | Equipped |
-| --- | --- |
-| [![R57 Base · Front three-quarter · Clay](images/r57/base-clay-front.jpg)](images/r57/base-clay-front.jpg) | [![R57 Equipped · Rear three-quarter · Clay](images/r57/equipped-clay-rear.jpg)](images/r57/equipped-clay-rear.jpg) |
-
-
-Neutral clay scenes are included in both Blender files for studying the form independently of the paint.
-
-## Model records and earlier work
-
-- [Full R57 model gallery](galleries/R57.md) — 22 fresh exterior and interior renders.
-- [Previous working checkpoint · R56](models/R56.md) — both source configurations preserved.
-- [Revision history](HISTORY.md) · [R57 detail notes](galleries/R57-DETAILS.md).
-- [Earlier R41 turntables](galleries/R41.md) · [Earlier R47 exterior/interior gallery](galleries/R47.md).
-- [Rendering and verification notes](images/r57/RENDERING.md) · [Rights and attribution](RIGHTS.md).
+[R57 gallery](galleries/R57.md) · [Archived R57 overview](https://github.com/mortal414/gepard-blender-showcase/blob/6ca17421293470e3a1d5e5ab45517115e4410af0/README.md) · [Showcase history](HISTORY.md) · [Rights and attribution](RIGHTS.md)
