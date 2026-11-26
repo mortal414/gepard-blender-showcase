@@ -7,13 +7,13 @@ A Blender exterior study in three-color camouflage. **Base** has a clear rear de
 <a id="exterior"></a>
 <a id="base--default"></a>
 
-[![R62 Base in camouflage, seen from the front quarter](images/r62/base-front.jpg)](images/r62/base-front.jpg?raw=true)
+[![R62 Base in camouflage, seen from the front quarter](images/r62/base-front.jpg)](https://raw.githubusercontent.com/mortal414/gepard-blender-showcase/46a9413930d302430fcd024679fb3b4f193675ab/images/r62/base-front.jpg)
 
 <a id="equipped--optional-stowage"></a>
 
 | Base · rear quarter | Equipped · rear quarter |
 | --- | --- |
-| [![R62 Base with its rear deck clear](images/r62/base-rear.jpg)](images/r62/base-rear.jpg?raw=true) | [![R62 Equipped with the roof cases and rear stowage chest](images/r62/equipped-rear.jpg)](images/r62/equipped-rear.jpg?raw=true) |
+| [![R62 Base with its rear deck clear](images/r62/base-rear.jpg)](https://raw.githubusercontent.com/mortal414/gepard-blender-showcase/46a9413930d302430fcd024679fb3b4f193675ab/images/r62/base-rear.jpg) | [![R62 Equipped with the roof cases and rear stowage chest](images/r62/equipped-rear.jpg)](https://raw.githubusercontent.com/mortal414/gepard-blender-showcase/46a9413930d302430fcd024679fb3b4f193675ab/images/r62/equipped-rear.jpg) |
 
 In the close-ups, light catches the fluted road-lamp glass, the rolled edge of the front mudguard and the shallow fold across the rear splash panel. [See the exterior details](galleries/R62.md#exterior-details).
 
