@@ -1,4 +1,16 @@
-# Gepard 1A2 · R62
+# Gepard 1A2 · Material02
+
+An exterior finish study for the Gepard Blender game artwork. **Base** has a clear rear deck. **Equipped** adds two roof cases, a rear stowage chest and an amber beacon.
+
+**[Explore both 360° views](https://mortal414.github.io/gepard-blender-showcase/)** · **[Material02 stills and turntables](galleries/Material02.md)** · [Earlier galleries](HISTORY.md)
+
+| Base | Equipped |
+| --- | --- |
+| [![Material02 Base in three-color camouflage, viewed from the port front](docs/media/base-front.webp)](galleries/Material02.md#matched-wide-views) | [![Material02 Equipped from the same angle with roof cases and a beacon](docs/media/equipped-front.webp)](galleries/Material02.md#matched-wide-views) |
+
+Paint color carries into the starboard locker recesses. Close views show slight variations in the wheel dishes and sparse scuffs on both front fenders. [See the surface details](galleries/Material02.md#surface-details).
+
+## Gepard 1A2 · R62
 
 A Blender exterior study in three-color camouflage. **Base** has a clear rear deck. **Equipped** carries two roof cases, a rear stowage chest and an amber beacon.
 
